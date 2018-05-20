@@ -1,0 +1,1879 @@
+CustomerKey,Age,MaritalStatus,Gender,YearlyIncome,NumberChildrenAtHome,Education,Occupation,HouseOwnerFlag,NumberCarsOwned,CommuteDistance,BikeBuyer
+11022,33,M,M,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,1
+11065,38,M,F,6e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,0
+11084,54,S,M,8e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,1
+11090,49,S,M,9e4,0,Partial College,Professional,1,1,2-5 Miles,1
+11129,37,S,F,4e4,0,High School,Skilled Manual,1,1,5-10 Miles,1
+11130,32,M,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+11141,35,M,F,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+11153,36,M,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+11155,36,S,M,4e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,1
+11162,38,S,M,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,1
+11168,44,S,M,8e4,0,Bachelors,Management,0,1,0-1 Miles,1
+11169,44,M,M,9e4,4,Bachelors,Management,1,1,0-1 Miles,0
+11176,39,M,M,9e4,4,Bachelors,Management,1,1,1-2 Miles,0
+11184,62,S,F,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+11185,67,S,F,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+11189,68,S,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+11192,66,M,M,6e4,0,Bachelors,Management,1,2,2-5 Miles,0
+11193,67,M,M,6e4,0,Bachelors,Management,1,2,2-5 Miles,0
+11210,64,M,M,7e4,1,Partial College,Professional,1,2,10+ Miles,0
+11213,63,S,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+11214,62,S,M,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+11215,56,M,F,4e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,0
+11216,62,S,F,6e4,1,Partial College,Professional,1,2,10+ Miles,1
+11218,56,S,F,6e4,1,Partial College,Professional,0,2,2-5 Miles,0
+11221,62,M,M,7e4,2,Partial College,Professional,1,1,1-2 Miles,0
+11230,61,M,F,7e4,2,Partial College,Professional,0,2,2-5 Miles,0
+11231,54,M,M,6e4,1,High School,Professional,1,2,10+ Miles,0
+11232,59,M,F,6e4,1,High School,Professional,0,2,2-5 Miles,0
+11236,60,S,M,7e4,2,Partial College,Professional,1,2,10+ Miles,0
+11254,79,M,M,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+11261,47,M,F,13e4,2,Graduate Degree,Management,1,1,0-1 Miles,1
+11270,42,M,M,13e4,2,Graduate Degree,Management,1,3,0-1 Miles,1
+11272,55,S,F,7e4,3,Partial College,Professional,1,0,5-10 Miles,1
+11273,55,M,M,9e4,1,Partial College,Professional,1,0,10+ Miles,0
+11285,44,M,M,12e4,3,Partial College,Professional,0,4,2-5 Miles,0
+11288,39,M,F,11e4,3,Bachelors,Management,1,3,2-5 Miles,0
+11297,77,S,M,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+11300,52,M,M,8e4,4,Partial College,Professional,0,3,1-2 Miles,0
+11303,51,S,F,9e4,3,High School,Professional,0,3,1-2 Miles,1
+11304,46,M,F,1e5,3,Partial College,Professional,1,0,5-10 Miles,0
+11305,52,M,M,11e4,3,Partial College,Professional,0,4,2-5 Miles,0
+11310,53,S,F,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+11312,59,S,F,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+11318,59,S,F,4e4,0,Partial College,Professional,0,2,1-2 Miles,0
+11329,72,S,M,9e4,0,Bachelors,Management,1,2,5-10 Miles,1
+11503,81,M,M,5e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+11504,81,M,F,4e4,0,Bachelors,Skilled Manual,1,1,0-1 Miles,0
+11505,46,S,F,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+11509,53,M,F,3e4,0,Bachelors,Skilled Manual,1,1,5-10 Miles,0
+11517,58,M,F,4e4,0,Partial College,Clerical,1,1,0-1 Miles,0
+11528,49,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+11532,55,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,0
+11539,47,M,M,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+11629,41,S,M,4e4,4,High School,Skilled Manual,1,3,10+ Miles,1
+11633,40,M,M,4e4,1,Bachelors,Skilled Manual,1,0,0-1 Miles,0
+11639,39,M,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+11646,37,S,F,4e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,0
+11647,42,S,M,4e4,2,Bachelors,Skilled Manual,0,0,0-1 Miles,1
+11655,35,S,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+11658,32,M,M,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+11664,42,S,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+11665,41,M,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+11671,46,S,F,6e4,3,Bachelors,Skilled Manual,0,0,0-1 Miles,1
+11676,46,M,M,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+11677,37,S,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+11683,43,M,M,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+11690,42,M,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+11694,48,M,M,5e4,4,Bachelors,Skilled Manual,1,4,10+ Miles,0
+11698,42,M,M,5e4,2,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+11701,32,M,M,6e4,2,Bachelors,Professional,1,2,2-5 Miles,0
+11704,44,S,M,6e4,0,Bachelors,Professional,0,1,2-5 Miles,0
+11719,46,M,M,4e4,2,High School,Skilled Manual,1,2,2-5 Miles,0
+11721,47,M,F,4e4,2,High School,Skilled Manual,1,2,0-1 Miles,0
+11730,51,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,0
+11731,52,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,0
+11740,53,M,F,7e4,5,Graduate Degree,Professional,0,3,10+ Miles,0
+11770,39,S,M,5e4,0,Graduate Degree,Skilled Manual,0,0,1-2 Miles,0
+11771,38,S,M,5e4,0,Graduate Degree,Skilled Manual,0,0,1-2 Miles,0
+11775,39,S,F,5e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+11779,41,S,F,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+11781,41,M,M,6e4,1,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+11784,39,M,M,4e4,1,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+11786,39,S,M,6e4,0,Graduate Degree,Skilled Manual,1,0,2-5 Miles,0
+11791,42,M,M,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+11800,42,M,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+11805,41,M,M,7e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+11813,44,M,F,4e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+11817,36,S,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+11830,43,M,F,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+11834,35,S,M,8e4,3,Bachelors,Skilled Manual,0,1,0-1 Miles,1
+11836,47,M,M,8e4,3,Bachelors,Skilled Manual,1,2,0-1 Miles,0
+11837,41,S,F,8e4,3,Bachelors,Skilled Manual,1,2,2-5 Miles,1
+11838,47,S,M,8e4,3,Bachelors,Skilled Manual,0,2,0-1 Miles,0
+11841,48,M,M,4e4,0,Bachelors,Professional,0,1,0-1 Miles,0
+11845,88,S,F,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+11846,48,S,F,5e4,2,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+11847,47,S,F,5e4,2,Bachelors,Skilled Manual,0,2,0-1 Miles,0
+11850,37,S,F,5e4,2,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+11853,38,S,F,6e4,0,Bachelors,Professional,1,1,2-5 Miles,0
+11872,39,S,F,6e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+11874,40,S,M,6e4,0,Bachelors,Professional,0,1,2-5 Miles,0
+11875,52,M,M,6e4,0,Partial College,Skilled Manual,0,1,0-1 Miles,0
+11879,46,M,M,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,0
+11880,53,M,F,6e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,0
+11889,54,S,M,6e4,0,Bachelors,Professional,1,1,2-5 Miles,0
+11890,53,M,F,7e4,4,Graduate Degree,Professional,1,1,0-1 Miles,0
+11934,34,S,M,4e4,0,Partial High School,Clerical,1,2,5-10 Miles,1
+11936,35,M,M,3e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+11939,35,S,M,6e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,1
+11950,33,M,F,7e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+11956,32,S,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+11959,39,S,F,7e4,0,Partial College,Professional,0,2,0-1 Miles,0
+11970,33,S,F,8e4,0,Bachelors,Management,0,1,2-5 Miles,0
+11972,38,M,F,6e4,0,Partial College,Professional,0,2,1-2 Miles,0
+11973,38,S,F,6e4,0,Partial College,Professional,0,2,1-2 Miles,0
+11985,54,M,F,8e4,1,Bachelors,Management,0,1,0-1 Miles,0
+12024,34,S,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+12041,31,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+12061,69,M,M,16e4,3,Bachelors,Management,1,4,0-1 Miles,0
+12063,68,M,M,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+12066,68,M,M,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+12070,68,M,M,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+12080,66,S,F,6e4,0,Bachelors,Management,1,3,10+ Miles,1
+12083,66,M,F,7e4,1,Bachelors,Management,1,1,10+ Miles,1
+12092,64,M,M,4e4,1,High School,Professional,1,2,2-5 Miles,0
+12099,62,S,F,6e4,1,Partial College,Professional,0,2,2-5 Miles,0
+12102,63,M,M,7e4,1,Partial College,Professional,1,2,1-2 Miles,1
+12105,63,S,F,7e4,1,Partial College,Professional,1,2,10+ Miles,1
+12106,62,M,M,4e4,1,Partial High School,Skilled Manual,1,2,2-5 Miles,0
+12113,50,M,M,7e4,1,High School,Professional,1,2,10+ Miles,1
+12116,61,S,F,7e4,1,High School,Professional,1,2,10+ Miles,1
+12120,60,M,M,6e4,1,High School,Professional,1,2,10+ Miles,1
+12122,59,M,F,7e4,2,Partial College,Professional,1,2,10+ Miles,1
+12135,55,M,M,9e4,1,Partial College,Professional,1,0,5-10 Miles,0
+12141,41,S,F,9e4,4,Partial College,Professional,1,3,2-5 Miles,1
+12142,36,S,F,1e5,1,Bachelors,Management,1,4,2-5 Miles,1
+12156,78,M,F,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+12157,77,M,M,12e4,3,Graduate Degree,Management,1,1,2-5 Miles,0
+12159,43,M,F,8e4,3,Partial College,Professional,1,2,2-5 Miles,0
+12167,49,S,M,1e5,2,Partial College,Professional,1,3,5-10 Miles,1
+12170,46,M,F,13e4,3,Bachelors,Management,0,2,2-5 Miles,1
+12171,46,S,F,13e4,3,Bachelors,Management,0,3,0-1 Miles,1
+12177,57,S,M,7e4,3,High School,Professional,1,0,5-10 Miles,1
+12186,46,S,M,1e5,3,Partial College,Professional,0,3,1-2 Miles,1
+12189,47,M,F,13e4,3,Bachelors,Management,1,3,2-5 Miles,1
+12193,58,S,M,7e4,1,High School,Professional,1,0,5-10 Miles,1
+12195,47,S,F,7e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+12209,72,M,F,13e4,3,Bachelors,Management,1,4,0-1 Miles,1
+12362,65,S,M,9e4,0,Bachelors,Management,1,2,5-10 Miles,1
+12365,65,M,M,8e4,0,Bachelors,Management,0,2,1-2 Miles,0
+12419,59,M,F,3e4,0,Bachelors,Skilled Manual,1,1,5-10 Miles,0
+12421,54,M,M,3e4,0,Bachelors,Skilled Manual,1,1,5-10 Miles,0
+12424,52,M,F,3e4,0,High School,Manual,1,1,5-10 Miles,0
+12427,58,M,F,4e4,0,Partial College,Clerical,1,1,0-1 Miles,0
+12429,56,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,0
+12430,57,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,0
+12433,51,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,0
+12434,57,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,0
+12438,51,S,F,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+12441,54,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+12444,55,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,0
+12445,55,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,0
+12446,55,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+12456,53,M,M,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+12527,52,M,M,6e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+12529,52,M,M,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+12530,40,S,F,4e4,4,Partial College,Clerical,1,2,0-1 Miles,0
+12707,70,M,M,7e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+12709,71,M,M,13e4,3,Bachelors,Management,1,4,0-1 Miles,1
+12710,71,S,M,17e4,3,Graduate Degree,Management,0,2,0-1 Miles,1
+12761,46,S,F,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+12763,48,M,F,3e4,0,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+12768,58,M,M,3e4,0,High School,Clerical,1,1,2-5 Miles,1
+12769,57,M,M,4e4,0,Partial College,Clerical,1,1,0-1 Miles,1
+12774,46,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+12783,56,M,M,4e4,0,Partial College,Clerical,1,1,0-1 Miles,1
+12790,53,S,M,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+12795,53,M,M,6e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+12796,53,M,M,6e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+12882,39,M,M,5e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+12885,35,M,M,6e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+12887,41,M,M,6e4,1,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+12905,43,M,F,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+12907,40,M,F,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+12923,46,S,M,6e4,3,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+12927,46,M,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+12930,43,M,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+12932,42,M,M,7e4,5,Graduate Degree,Professional,1,3,10+ Miles,0
+12939,47,S,M,8e4,3,Bachelors,Skilled Manual,1,1,2-5 Miles,0
+12944,47,M,M,8e4,4,Bachelors,Skilled Manual,1,0,2-5 Miles,0
+12947,48,S,M,4e4,0,Bachelors,Professional,0,1,2-5 Miles,1
+12948,42,M,M,5e4,5,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+12949,47,S,F,5e4,5,Bachelors,Skilled Manual,1,3,5-10 Miles,1
+12950,47,S,F,5e4,5,Bachelors,Skilled Manual,1,3,5-10 Miles,1
+12973,40,S,M,7e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,0
+12975,45,S,M,6e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+12976,45,S,M,6e4,0,Graduate Degree,Professional,0,1,2-5 Miles,0
+12977,40,S,F,6e4,0,Graduate Degree,Professional,0,1,2-5 Miles,0
+12978,83,M,F,2e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+12982,43,M,F,8e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,0
+13014,33,M,M,1e5,0,Bachelors,Management,1,2,0-1 Miles,0
+13016,44,M,M,11e4,1,Graduate Degree,Management,1,2,1-2 Miles,1
+13039,32,S,F,2e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,1
+13056,36,S,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+13057,37,S,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+13062,38,S,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+13066,37,S,M,3e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+13067,37,S,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+13068,33,S,F,3e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+13069,38,M,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+13093,54,S,F,8e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,1
+13096,54,M,M,6e4,0,High School,Professional,0,2,1-2 Miles,0
+13145,36,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+13148,32,M,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+13154,33,M,M,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,1
+13161,36,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+13162,36,S,F,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+13163,36,M,M,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+13167,38,S,M,3e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+13169,40,S,M,8e4,0,Bachelors,Management,0,1,1-2 Miles,0
+13171,44,S,F,8e4,0,Bachelors,Management,1,1,1-2 Miles,0
+13172,43,S,F,8e4,0,Bachelors,Management,0,1,1-2 Miles,0
+13173,43,M,M,8e4,0,Bachelors,Management,0,1,0-1 Miles,1
+13175,44,M,M,9e4,4,Bachelors,Management,1,1,0-1 Miles,0
+13177,49,S,F,7e4,0,Partial College,Skilled Manual,0,2,5-10 Miles,1
+13184,64,M,M,9e4,0,Bachelors,Management,1,2,5-10 Miles,0
+13187,70,M,M,11e4,4,Graduate Degree,Management,1,2,5-10 Miles,0
+13188,70,M,M,12e4,4,Graduate Degree,Management,1,3,5-10 Miles,0
+13192,69,M,M,11e4,4,Bachelors,Management,1,2,5-10 Miles,0
+13197,68,M,F,12e4,4,Graduate Degree,Management,1,3,5-10 Miles,0
+13198,68,M,F,12e4,4,Bachelors,Management,1,4,5-10 Miles,0
+13201,68,S,M,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+13217,60,S,M,6e4,0,Bachelors,Management,1,3,10+ Miles,1
+13221,65,M,F,7e4,1,Bachelors,Management,1,1,10+ Miles,1
+13225,65,M,M,6e4,0,Bachelors,Management,0,3,2-5 Miles,1
+13226,65,M,F,6e4,0,Bachelors,Management,1,3,10+ Miles,1
+13227,65,M,M,6e4,0,Bachelors,Management,1,3,2-5 Miles,0
+13231,63,M,F,4e4,1,High School,Professional,1,2,2-5 Miles,0
+13238,63,M,M,7e4,1,Bachelors,Management,1,2,10+ Miles,1
+13245,61,M,M,6e4,1,Partial College,Professional,0,1,2-5 Miles,0
+13246,60,M,F,6e4,1,High School,Professional,1,2,10+ Miles,1
+13248,60,M,F,6e4,1,High School,Professional,1,2,10+ Miles,1
+13302,57,S,M,6e4,0,High School,Professional,1,2,5-10 Miles,0
+13306,56,M,F,7e4,3,High School,Professional,0,0,1-2 Miles,0
+13307,77,M,F,1e5,2,Graduate Degree,Management,1,4,5-10 Miles,0
+13315,58,M,M,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,1
+13321,58,S,F,7e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+13323,59,M,M,7e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+13330,72,M,F,1e5,3,Graduate Degree,Management,1,3,1-2 Miles,0
+13332,71,M,M,9e4,0,Bachelors,Management,1,2,5-10 Miles,0
+13336,71,M,F,1e5,3,Graduate Degree,Management,1,3,5-10 Miles,0
+13341,69,M,M,9e4,0,Bachelors,Management,1,2,5-10 Miles,0
+13342,70,S,M,9e4,0,Bachelors,Management,1,2,5-10 Miles,0
+13344,70,M,F,11e4,4,Bachelors,Management,1,2,5-10 Miles,0
+13356,67,M,F,6e4,0,Bachelors,Management,1,2,2-5 Miles,0
+13362,55,S,F,6e4,0,Bachelors,Management,1,3,10+ Miles,1
+13363,66,M,F,7e4,1,Bachelors,Management,1,1,1-2 Miles,0
+13373,64,S,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+13382,58,M,M,7e4,1,Partial College,Professional,1,2,1-2 Miles,1
+13391,61,M,F,4e4,1,Partial High School,Skilled Manual,1,3,10+ Miles,1
+13392,61,M,M,7e4,1,High School,Professional,1,2,10+ Miles,0
+13393,61,M,M,7e4,1,High School,Professional,1,2,2-5 Miles,1
+13394,61,S,M,7e4,1,High School,Professional,1,2,10+ Miles,1
+13398,44,M,M,6e4,1,Partial College,Professional,1,1,10+ Miles,1
+13424,36,M,F,9e4,5,Partial College,Professional,1,3,2-5 Miles,1
+13430,37,M,M,15e4,0,Bachelors,Management,1,4,0-1 Miles,0
+13436,49,S,F,9e4,0,Partial College,Professional,1,1,5-10 Miles,1
+13438,48,S,F,9e4,0,Partial College,Professional,0,2,0-1 Miles,1
+13439,49,M,M,11e4,2,Bachelors,Management,1,4,5-10 Miles,0
+13469,51,S,M,1e5,3,Partial College,Professional,1,1,5-10 Miles,0
+13470,51,S,F,1e5,3,Partial College,Professional,1,2,5-10 Miles,0
+13473,58,M,M,8e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,1
+13476,58,M,M,6e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+13480,59,S,F,7e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+13489,73,M,F,9e4,0,Bachelors,Management,1,2,5-10 Miles,1
+13654,71,M,M,1e5,3,Graduate Degree,Management,1,3,1-2 Miles,0
+13700,37,S,M,4e4,3,Partial College,Clerical,1,1,1-2 Miles,1
+13722,57,M,M,3e4,0,High School,Manual,1,1,1-2 Miles,1
+13737,55,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,0
+13745,55,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+13747,43,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+13749,48,M,M,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+13757,53,S,F,6e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+13759,53,M,M,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+13879,44,S,M,6e4,2,Bachelors,Skilled Manual,0,1,0-1 Miles,0
+13881,38,S,F,6e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,0
+13893,35,M,M,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+13896,37,S,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+13898,31,S,M,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+13901,42,M,M,7e4,5,Graduate Degree,Professional,0,2,0-1 Miles,0
+13909,47,S,F,8e4,3,Bachelors,Skilled Manual,1,1,0-1 Miles,1
+13921,43,M,M,6e4,2,Bachelors,Professional,1,2,2-5 Miles,0
+13926,49,S,M,6e4,0,Bachelors,Professional,0,1,2-5 Miles,0
+13930,45,M,F,7e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,0
+13933,51,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,0
+13936,45,M,M,7e4,0,Partial College,Skilled Manual,0,1,0-1 Miles,0
+13939,45,S,M,6e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+13941,40,M,F,6e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,0
+13942,52,M,M,6e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,0
+13946,53,M,M,6e4,3,Bachelors,Professional,1,0,0-1 Miles,0
+13950,54,M,F,7e4,4,Graduate Degree,Professional,1,1,2-5 Miles,0
+13976,44,M,M,1e5,0,Bachelors,Management,1,2,1-2 Miles,1
+13979,33,S,F,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+13984,33,S,M,6e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,1
+13993,34,M,M,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+14000,35,S,M,4e4,0,Partial High School,Clerical,0,2,5-10 Miles,0
+14004,35,M,F,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+14006,34,M,F,7e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+14017,31,S,F,6e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,1
+14022,37,S,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+14027,39,M,M,7e4,0,Partial College,Professional,0,2,0-1 Miles,0
+14028,39,S,F,7e4,0,Partial College,Professional,0,2,0-1 Miles,0
+14041,49,S,F,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,1
+14042,55,M,F,6e4,0,High School,Professional,0,2,1-2 Miles,0
+14044,55,M,M,7e4,1,Partial College,Professional,1,0,0-1 Miles,1
+14076,36,M,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+14078,36,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+14080,36,S,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+14084,32,S,M,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+14097,32,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+14114,40,M,F,7e4,0,Partial College,Skilled Manual,0,2,0-1 Miles,0
+14122,65,M,F,8e4,0,Bachelors,Management,1,2,5-10 Miles,0
+14239,71,M,F,7e4,0,Bachelors,Management,1,2,10+ Miles,1
+14244,59,M,F,9e4,0,Bachelors,Management,1,2,5-10 Miles,0
+14274,36,M,M,6e4,0,Partial College,Professional,1,2,5-10 Miles,0
+14281,39,S,M,8e4,0,Bachelors,Management,0,1,0-1 Miles,1
+14285,32,S,F,6e4,0,Partial College,Professional,0,2,1-2 Miles,1
+14290,55,S,M,7e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,1
+14335,33,M,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+14338,34,M,F,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,1
+14342,33,S,F,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,1
+14352,31,S,F,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,0
+14360,53,S,F,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+14367,36,S,F,6e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+14376,68,S,F,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+14377,68,S,F,7e4,0,Bachelors,Management,1,2,1-2 Miles,1
+14379,68,M,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+14399,58,S,M,6e4,1,Bachelors,Management,1,0,10+ Miles,0
+14401,63,M,M,6e4,1,Partial College,Professional,0,2,2-5 Miles,0
+14403,63,S,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+14408,62,S,F,7e4,2,Partial College,Professional,1,1,10+ Miles,0
+14415,55,M,M,6e4,1,Partial College,Professional,1,2,2-5 Miles,1
+14418,54,M,F,6e4,1,High School,Professional,1,2,10+ Miles,1
+14419,60,M,F,7e4,2,Partial College,Professional,1,2,10+ Miles,1
+14430,55,M,F,9e4,1,Partial College,Professional,1,0,5-10 Miles,0
+14435,79,M,F,11e4,2,Graduate Degree,Management,1,3,1-2 Miles,0
+14441,41,M,M,11e4,2,Bachelors,Management,1,3,1-2 Miles,0
+14450,42,M,M,13e4,2,Graduate Degree,Management,1,2,0-1 Miles,0
+14454,77,M,F,1e5,2,Graduate Degree,Management,1,1,0-1 Miles,0
+14470,46,M,M,13e4,3,Bachelors,Management,1,3,0-1 Miles,1
+14472,51,M,F,13e4,3,Bachelors,Management,1,3,0-1 Miles,1
+14473,46,M,M,16e4,2,Bachelors,Management,1,4,2-5 Miles,1
+14490,53,M,M,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+14491,58,S,M,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+14501,74,M,M,8e4,0,Graduate Degree,Management,1,2,1-2 Miles,1
+14510,44,S,M,1e5,0,Bachelors,Management,1,2,1-2 Miles,1
+14514,33,S,F,3e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+14561,36,M,M,5e4,1,Bachelors,Skilled Manual,1,1,0-1 Miles,0
+14566,40,M,F,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+14567,35,M,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+14568,36,S,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+14569,35,M,M,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+14581,39,S,M,4e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+14582,37,M,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+14591,46,S,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+14593,46,M,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+14597,46,M,M,7e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+14606,47,S,F,8e4,4,Bachelors,Skilled Manual,0,2,0-1 Miles,1
+14609,48,S,F,5e4,5,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+14617,49,S,M,6e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+14624,50,M,F,7e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,0
+14629,51,M,M,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,0
+14632,46,M,M,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,0
+14634,50,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+14642,45,S,M,5e4,0,Partial College,Skilled Manual,0,1,0-1 Miles,0
+14643,45,S,M,5e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+14648,84,S,M,9e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+14653,53,M,M,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+14723,37,S,M,4e4,4,Partial College,Clerical,1,0,0-1 Miles,0
+14727,40,S,F,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+14730,54,M,M,2e4,0,High School,Manual,0,2,0-1 Miles,1
+14731,53,M,M,3e4,0,Bachelors,Skilled Manual,1,1,5-10 Miles,1
+14733,59,M,M,3e4,0,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+14734,53,M,M,3e4,0,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+14738,58,M,M,4e4,0,Partial College,Clerical,1,1,0-1 Miles,1
+14744,57,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+14755,54,M,M,4e4,0,Partial College,Clerical,1,1,0-1 Miles,1
+14762,54,S,F,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+14867,37,S,F,4e4,3,Partial College,Clerical,1,0,1-2 Miles,1
+14870,38,S,F,4e4,3,Partial College,Clerical,1,2,0-1 Miles,0
+14872,33,M,M,3e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+14887,58,M,F,3e4,0,High School,Clerical,1,1,5-10 Miles,0
+14889,46,M,M,3e4,0,High School,Clerical,1,1,5-10 Miles,0
+14893,57,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+14901,50,M,F,4e4,0,Partial College,Clerical,1,1,0-1 Miles,0
+14904,56,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,0
+14916,48,S,F,8e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+14922,47,S,F,6e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+15006,33,M,F,7e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+15007,35,S,F,4e4,0,Partial High School,Clerical,0,2,5-10 Miles,0
+15010,34,M,M,3e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+15017,31,S,F,2e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,1
+15157,71,M,M,1e5,3,Graduate Degree,Management,1,3,5-10 Miles,0
+15160,70,M,F,8e4,0,Bachelors,Management,1,2,5-10 Miles,0
+15164,68,M,F,1e5,3,Graduate Degree,Management,1,3,5-10 Miles,0
+15173,36,S,M,3e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+15176,39,M,F,7e4,0,Partial College,Professional,1,2,5-10 Miles,1
+15189,32,M,F,6e4,0,Partial College,Professional,1,2,5-10 Miles,1
+15198,49,M,F,6e4,0,High School,Professional,0,2,1-2 Miles,0
+15199,55,M,M,7e4,2,Partial College,Professional,1,0,5-10 Miles,1
+15201,55,S,F,9e4,0,Partial College,Professional,1,1,2-5 Miles,1
+15244,36,M,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+15250,31,S,M,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+15254,32,M,F,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,1
+15255,34,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+15258,34,M,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+15273,36,S,M,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+15278,32,S,M,3e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+15281,45,S,M,11e4,1,Graduate Degree,Management,1,1,10+ Miles,0
+15283,39,S,M,4e4,0,Graduate Degree,Skilled Manual,0,0,1-2 Miles,1
+15287,39,S,F,5e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+15289,35,M,F,4e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+15296,41,M,F,6e4,1,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+15298,34,M,M,5e4,1,Bachelors,Skilled Manual,1,0,0-1 Miles,0
+15303,67,S,F,7e4,0,Bachelors,Management,1,2,1-2 Miles,1
+15305,66,S,F,7e4,0,Bachelors,Management,1,3,2-5 Miles,0
+15306,66,M,F,6e4,0,Bachelors,Management,1,2,2-5 Miles,0
+15311,61,M,M,6e4,0,Bachelors,Management,1,2,10+ Miles,1
+15319,65,M,F,7e4,1,Bachelors,Management,0,1,1-2 Miles,0
+15322,59,M,M,8e4,0,Bachelors,Management,1,2,5-10 Miles,1
+15327,63,S,F,6e4,1,Bachelors,Management,1,0,10+ Miles,0
+15331,57,M,M,6e4,1,Partial College,Professional,1,2,2-5 Miles,0
+15333,62,M,F,6e4,1,Bachelors,Management,1,0,2-5 Miles,1
+15334,62,S,F,4e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,1
+15336,61,M,M,6e4,1,Partial College,Professional,1,1,2-5 Miles,0
+15339,62,M,M,6e4,1,Partial College,Professional,1,1,10+ Miles,1
+15346,61,S,M,7e4,2,Partial College,Professional,1,2,10+ Miles,1
+15362,41,M,F,9e4,4,Partial College,Professional,1,3,2-5 Miles,1
+15363,47,M,M,9e4,4,Partial College,Professional,1,3,0-1 Miles,1
+15364,47,S,M,9e4,5,Partial College,Professional,1,3,2-5 Miles,1
+15371,56,M,M,8e4,0,Partial College,Professional,0,2,0-1 Miles,1
+15374,77,M,F,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+15377,49,S,F,8e4,3,Partial College,Professional,1,2,2-5 Miles,0
+15388,51,M,F,13e4,3,Bachelors,Management,1,1,0-1 Miles,1
+15400,57,M,M,6e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+15406,59,S,F,7e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+15422,33,M,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,1
+15472,37,S,F,5e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+15491,38,S,F,7e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+15493,38,M,M,7e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+15495,45,M,M,4e4,5,High School,Skilled Manual,1,2,2-5 Miles,0
+15504,45,S,M,5e4,2,Bachelors,Skilled Manual,0,1,0-1 Miles,0
+15507,45,M,F,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+15509,46,M,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+15510,40,M,M,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+15515,43,M,M,7e4,5,Graduate Degree,Professional,1,2,2-5 Miles,0
+15525,43,S,F,5e4,4,Bachelors,Skilled Manual,1,3,5-10 Miles,1
+15526,48,S,F,5e4,2,Bachelors,Skilled Manual,0,2,0-1 Miles,0
+15529,49,M,M,6e4,2,Bachelors,Professional,1,2,2-5 Miles,1
+15530,49,S,F,6e4,2,Bachelors,Professional,0,2,0-1 Miles,1
+15531,49,M,M,6e4,2,Bachelors,Professional,1,2,2-5 Miles,1
+15538,49,S,M,6e4,2,Graduate Degree,Professional,0,0,0-1 Miles,1
+15539,50,S,M,7e4,0,Bachelors,Professional,0,1,2-5 Miles,0
+15550,39,S,M,5e4,0,Partial College,Skilled Manual,0,1,0-1 Miles,0
+15564,48,M,M,6e4,3,Bachelors,Professional,0,1,0-1 Miles,0
+15565,53,S,M,7e4,0,Graduate Degree,Professional,1,1,2-5 Miles,1
+15566,47,M,M,7e4,0,Graduate Degree,Professional,1,1,0-1 Miles,1
+15572,54,M,F,6e4,0,Bachelors,Professional,1,1,2-5 Miles,0
+15573,48,S,M,7e4,4,Bachelors,Professional,0,2,0-1 Miles,0
+15743,65,M,F,12e4,4,Graduate Degree,Management,0,3,5-10 Miles,0
+15746,68,M,F,12e4,4,Bachelors,Management,1,3,5-10 Miles,0
+15748,68,M,M,7e4,0,Bachelors,Management,1,2,1-2 Miles,0
+15771,54,M,F,13e4,1,Graduate Degree,Management,1,4,1-2 Miles,1
+15782,49,M,F,9e4,0,Partial College,Professional,1,1,5-10 Miles,0
+15826,33,S,F,3e4,0,Partial High School,Clerical,0,2,5-10 Miles,0
+15843,43,S,M,8e4,0,Bachelors,Management,0,1,0-1 Miles,1
+15850,39,S,F,11e4,1,Graduate Degree,Management,0,1,0-1 Miles,1
+15851,45,S,F,11e4,1,Graduate Degree,Management,0,2,1-2 Miles,1
+15857,53,S,F,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+15858,53,M,M,6e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+15859,53,S,F,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+15860,39,S,M,4e4,4,Partial College,Clerical,1,2,1-2 Miles,1
+15864,33,S,F,5e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+15869,40,S,F,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+15872,34,M,F,5e4,1,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+15876,67,M,M,7e4,0,Bachelors,Management,1,2,1-2 Miles,1
+15880,66,M,M,7e4,0,Bachelors,Management,0,3,2-5 Miles,0
+15885,66,S,M,6e4,0,Bachelors,Management,1,3,10+ Miles,1
+15888,66,M,F,7e4,0,Bachelors,Management,1,2,10+ Miles,1
+15889,65,M,M,7e4,1,Bachelors,Management,1,1,10+ Miles,1
+15890,65,S,M,6e4,1,Bachelors,Management,1,0,10+ Miles,1
+15892,53,S,F,4e4,1,High School,Professional,1,2,10+ Miles,1
+15893,63,M,F,4e4,1,High School,Professional,1,2,10+ Miles,1
+15895,47,S,F,6e4,1,Bachelors,Management,1,0,10+ Miles,0
+15900,56,S,M,4e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,1
+15902,62,M,M,6e4,1,Partial College,Professional,1,2,2-5 Miles,1
+15958,50,M,F,9e4,3,Partial College,Professional,1,0,5-10 Miles,0
+15971,77,M,M,5e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+15975,46,S,F,9e4,3,High School,Professional,0,2,1-2 Miles,0
+15982,52,M,M,11e4,3,Partial College,Professional,1,4,2-5 Miles,0
+15984,52,M,M,17e4,1,Bachelors,Management,1,2,0-1 Miles,1
+15985,52,M,M,17e4,1,Bachelors,Management,1,3,2-5 Miles,1
+15988,58,M,M,7e4,1,High School,Professional,1,0,5-10 Miles,0
+16015,33,S,F,3e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,1
+16019,33,S,F,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+16062,36,M,F,5e4,1,Bachelors,Skilled Manual,1,1,0-1 Miles,0
+16067,37,S,F,5e4,2,Bachelors,Skilled Manual,0,0,0-1 Miles,1
+16070,42,S,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+16074,40,M,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+16080,44,S,M,4e4,4,High School,Skilled Manual,1,3,10+ Miles,1
+16082,38,S,F,7e4,2,Bachelors,Skilled Manual,0,1,0-1 Miles,0
+16091,34,S,F,5e4,2,Bachelors,Skilled Manual,0,1,0-1 Miles,0
+16092,46,M,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+16094,40,S,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+16101,42,M,F,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+16103,35,S,F,8e4,3,Bachelors,Skilled Manual,1,1,0-1 Miles,1
+16106,47,M,M,6e4,0,Graduate Degree,Professional,1,1,2-5 Miles,0
+16107,37,S,F,5e4,4,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+16113,38,S,M,7e4,2,Bachelors,Professional,0,2,0-1 Miles,1
+16115,44,S,F,7e4,0,Bachelors,Professional,0,1,0-1 Miles,0
+16122,50,M,M,4e4,2,High School,Skilled Manual,1,2,0-1 Miles,1
+16128,40,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+16142,53,S,F,6e4,3,Bachelors,Professional,1,0,2-5 Miles,1
+16143,53,M,F,6e4,3,Bachelors,Professional,1,0,2-5 Miles,0
+16146,53,M,F,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+16149,54,S,M,6e4,2,Bachelors,Professional,1,1,2-5 Miles,0
+16154,53,M,F,7e4,4,Bachelors,Professional,1,2,2-5 Miles,0
+16210,38,S,F,4e4,3,Partial College,Clerical,1,1,1-2 Miles,1
+16212,82,M,F,5e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+16223,59,M,M,3e4,0,Bachelors,Skilled Manual,1,1,1-2 Miles,1
+16242,54,S,F,8e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+16249,47,M,M,6e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+16334,34,S,F,3e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+16340,31,S,M,2e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,1
+16356,36,M,F,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+16365,57,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+16367,40,S,F,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+16368,51,S,F,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+16373,55,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+16378,54,S,F,8e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+16382,54,S,F,8e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+16491,33,S,M,7e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+16497,37,S,F,3e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+16501,37,S,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+16502,37,S,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+16504,38,S,M,3e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+16647,69,M,F,12e4,4,Graduate Degree,Management,1,3,5-10 Miles,0
+16652,33,M,F,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+16668,38,S,M,3e4,0,High School,Professional,0,2,1-2 Miles,1
+16672,38,S,F,6e4,0,Partial College,Professional,1,2,5-10 Miles,0
+16715,35,M,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+16717,37,M,F,4e4,0,High School,Skilled Manual,1,1,5-10 Miles,0
+16721,32,M,M,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+16722,32,S,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+16736,34,S,F,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+16759,45,M,F,11e4,1,Graduate Degree,Management,0,1,2-5 Miles,0
+16762,40,M,M,5e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+16765,39,M,M,5e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+16774,35,S,M,6e4,0,Graduate Degree,Skilled Manual,1,0,2-5 Miles,0
+16777,68,M,M,7e4,0,Bachelors,Management,1,2,1-2 Miles,0
+16782,66,M,M,6e4,0,Bachelors,Management,1,3,2-5 Miles,1
+16783,65,M,F,6e4,0,Bachelors,Management,1,3,10+ Miles,1
+16785,66,M,M,7e4,1,Bachelors,Management,1,1,10+ Miles,1
+16792,65,M,F,6e4,0,Bachelors,Management,1,3,2-5 Miles,1
+16795,65,M,F,7e4,1,Bachelors,Management,1,1,1-2 Miles,0
+16799,63,M,F,6e4,1,Bachelors,Management,1,0,2-5 Miles,1
+16804,61,M,M,6e4,1,High School,Professional,1,2,2-5 Miles,1
+16808,61,M,F,7e4,2,Partial College,Professional,0,1,1-2 Miles,0
+16814,55,S,F,7e4,2,Partial College,Professional,1,1,10+ Miles,0
+16832,80,S,M,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+16833,80,M,M,9e4,0,Graduate Degree,Management,1,1,2-5 Miles,1
+16843,48,S,M,13e4,2,Graduate Degree,Management,0,2,0-1 Miles,0
+16849,43,M,M,8e4,3,Partial College,Professional,1,2,2-5 Miles,0
+16850,48,S,F,9e4,0,Partial College,Professional,0,2,2-5 Miles,1
+16854,38,M,M,17e4,0,Graduate Degree,Management,1,3,1-2 Miles,1
+16856,49,M,F,9e4,4,Partial College,Professional,1,4,5-10 Miles,0
+16858,50,M,F,1e5,2,Partial College,Professional,1,3,5-10 Miles,0
+16859,44,S,M,1e5,2,Partial College,Professional,1,3,5-10 Miles,1
+16862,49,M,M,13e4,2,Bachelors,Management,1,4,0-1 Miles,0
+16869,51,M,F,17e4,0,Graduate Degree,Management,1,4,2-5 Miles,1
+16871,52,M,F,9e4,1,High School,Professional,1,1,10+ Miles,1
+16872,42,M,M,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,1
+16878,75,S,M,5e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+16880,64,M,M,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+16882,52,S,M,1e5,2,Partial College,Professional,1,4,5-10 Miles,1
+16883,51,S,M,12e4,4,High School,Professional,1,1,5-10 Miles,0
+16887,58,M,M,6e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,1
+16888,58,S,F,6e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,1
+16890,58,M,M,6e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,1
+16894,43,S,F,6e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+16895,60,M,F,4e4,0,Partial College,Professional,0,2,1-2 Miles,1
+16896,59,M,F,4e4,0,Partial College,Professional,0,2,5-10 Miles,1
+16898,54,M,M,4e4,0,Partial College,Professional,0,2,5-10 Miles,1
+16900,74,M,M,12e4,4,Graduate Degree,Management,1,3,5-10 Miles,0
+16902,73,S,M,9e4,0,Bachelors,Management,1,2,5-10 Miles,0
+16905,74,M,F,13e4,3,Bachelors,Management,1,4,2-5 Miles,0
+16907,73,S,F,8e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+16908,73,S,F,8e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+16909,72,M,F,9e4,0,Bachelors,Management,1,2,5-10 Miles,1
+16914,43,M,F,1e5,0,Bachelors,Management,1,3,0-1 Miles,1
+16916,44,S,F,11e4,1,Graduate Degree,Management,0,2,1-2 Miles,1
+16955,43,M,M,5e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+16960,41,M,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+16968,42,S,M,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+16972,34,S,M,5e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+16975,46,M,M,6e4,3,Bachelors,Skilled Manual,1,0,2-5 Miles,0
+16991,47,S,F,6e4,4,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+17004,38,S,F,7e4,2,Bachelors,Professional,1,2,2-5 Miles,1
+17011,38,M,F,6e4,2,Graduate Degree,Professional,1,0,2-5 Miles,1
+17023,46,M,M,6e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,1
+17033,47,S,M,6e4,4,Bachelors,Professional,1,1,2-5 Miles,0
+17041,54,M,M,6e4,0,Bachelors,Professional,1,1,2-5 Miles,1
+17044,53,M,F,8e4,4,Graduate Degree,Management,1,0,0-1 Miles,0
+17117,38,M,F,4e4,3,Partial College,Clerical,0,2,0-1 Miles,0
+17119,37,S,F,4e4,4,Partial College,Clerical,1,1,0-1 Miles,0
+17121,40,S,M,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+17123,58,M,M,3e4,0,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+17129,67,S,F,4e4,0,High School,Professional,1,2,10+ Miles,1
+17130,61,S,F,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+17134,65,S,F,7e4,0,Bachelors,Management,0,4,2-5 Miles,1
+17137,65,S,M,6e4,0,Bachelors,Management,1,2,10+ Miles,0
+17139,65,S,F,7e4,1,Partial College,Professional,1,1,2-5 Miles,1
+17150,57,M,M,6e4,1,Partial College,Professional,1,2,2-5 Miles,1
+17151,57,S,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+17160,62,M,M,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+17162,62,S,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+17166,61,M,M,6e4,1,High School,Professional,1,2,2-5 Miles,0
+17167,55,M,M,6e4,1,High School,Professional,1,2,2-5 Miles,1
+17175,60,S,F,7e4,1,Partial High School,Skilled Manual,1,3,10+ Miles,1
+17178,60,M,F,6e4,1,High School,Professional,1,2,10+ Miles,0
+17263,47,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+17335,36,M,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+17340,32,S,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+17360,37,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+17365,44,M,M,8e4,0,Bachelors,Management,0,1,0-1 Miles,1
+17372,34,M,F,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+17378,34,M,M,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+17382,35,M,M,6e4,1,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+17385,36,M,F,6e4,1,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+17386,41,M,F,6e4,1,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+17387,34,M,M,5e4,1,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+17390,34,M,M,6e4,0,Graduate Degree,Skilled Manual,1,0,2-5 Miles,0
+17391,48,S,F,1e5,2,Partial College,Professional,1,0,2-5 Miles,0
+17392,48,M,M,1e5,2,Partial College,Professional,1,0,2-5 Miles,0
+17395,42,S,F,13e4,2,Graduate Degree,Management,0,2,1-2 Miles,0
+17406,77,M,F,6e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+17411,43,M,F,8e4,3,Partial College,Professional,1,2,2-5 Miles,0
+17416,43,M,M,1e5,2,Partial College,Professional,1,2,2-5 Miles,1
+17423,50,S,F,1e5,2,Partial College,Professional,1,3,5-10 Miles,1
+17425,50,M,M,1e5,2,Partial College,Professional,1,3,5-10 Miles,1
+17426,44,S,F,11e4,3,Bachelors,Management,0,1,1-2 Miles,0
+17431,50,M,F,8e4,4,Partial College,Professional,1,3,1-2 Miles,0
+17436,57,M,M,6e4,0,High School,Professional,0,2,1-2 Miles,0
+17449,76,M,M,6e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+17450,51,M,M,8e4,4,Partial College,Professional,1,3,5-10 Miles,0
+17456,58,M,M,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+17466,75,M,M,6e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+17468,75,M,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+17473,73,M,F,6e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+17499,32,S,M,1e5,0,Bachelors,Management,1,3,2-5 Miles,1
+17506,39,M,F,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+17516,39,S,M,8e4,0,Bachelors,Management,0,1,2-5 Miles,0
+17524,45,S,M,16e4,0,Graduate Degree,Management,0,3,0-1 Miles,1
+17534,46,S,M,9e4,5,Partial College,Professional,0,3,0-1 Miles,0
+17539,48,M,F,8e4,3,Bachelors,Management,1,1,2-5 Miles,0
+17552,64,M,F,7e4,0,Bachelors,Management,1,2,10+ Miles,1
+17553,64,M,F,7e4,0,Bachelors,Management,1,2,1-2 Miles,1
+17559,57,S,F,4e4,0,High School,Professional,1,2,10+ Miles,1
+17562,34,M,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+17571,37,M,M,5e4,1,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+17574,38,S,M,5e4,2,Bachelors,Skilled Manual,0,0,0-1 Miles,1
+17579,41,M,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+17582,44,S,F,7e4,2,Bachelors,Skilled Manual,0,0,0-1 Miles,1
+17583,38,S,F,7e4,2,Bachelors,Skilled Manual,0,1,0-1 Miles,0
+17584,44,S,F,7e4,2,Bachelors,Skilled Manual,0,1,0-1 Miles,0
+17596,45,S,F,6e4,3,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+17613,46,S,M,8e4,3,Bachelors,Skilled Manual,1,3,10+ Miles,1
+17618,42,M,M,6e4,4,Bachelors,Skilled Manual,1,3,10+ Miles,0
+17621,49,S,F,4e4,0,Bachelors,Professional,1,1,2-5 Miles,1
+17623,44,S,M,7e4,0,Bachelors,Professional,0,1,2-5 Miles,1
+17624,49,S,F,7e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+17670,56,M,F,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,1
+17672,55,M,M,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,1
+17675,55,M,F,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+17680,54,M,F,4e4,0,Partial College,Clerical,1,1,0-1 Miles,0
+17682,48,S,F,8e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+17685,54,S,F,8e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+17694,33,S,F,5e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+17696,39,S,F,5e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+17858,50,M,M,4e4,2,High School,Skilled Manual,1,2,2-5 Miles,1
+17866,51,M,M,6e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,1
+17867,40,S,F,5e4,0,Partial College,Skilled Manual,0,1,0-1 Miles,0
+17871,52,M,F,6e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,1
+18049,40,S,M,4e4,2,High School,Skilled Manual,1,2,2-5 Miles,1
+18058,84,S,F,2e4,0,High School,Skilled Manual,1,2,2-5 Miles,0
+18065,67,S,F,7e4,0,Bachelors,Management,1,2,2-5 Miles,0
+18067,66,M,M,7e4,0,Bachelors,Management,1,4,10+ Miles,1
+18068,65,M,M,7e4,0,Bachelors,Management,0,4,2-5 Miles,1
+18074,65,S,F,7e4,1,Partial College,Professional,1,1,10+ Miles,0
+18089,62,M,F,4e4,1,High School,Professional,1,2,10+ Miles,1
+18097,56,S,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+18104,61,M,F,6e4,1,Partial College,Professional,1,1,2-5 Miles,0
+18106,60,M,M,6e4,1,Partial College,Professional,1,1,10+ Miles,0
+18111,55,M,M,7e4,2,Partial College,Professional,0,1,1-2 Miles,0
+18114,55,S,F,7e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,0
+18115,59,M,M,7e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,0
+18116,60,M,M,7e4,1,Partial High School,Skilled Manual,1,3,2-5 Miles,1
+18227,40,M,F,6e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,1
+18229,52,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+18321,33,S,M,3e4,0,Partial High School,Clerical,0,2,5-10 Miles,0
+18341,36,S,M,4e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+18346,32,S,F,3e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+18352,39,M,M,8e4,0,Bachelors,Management,1,1,1-2 Miles,1
+18360,32,M,M,6e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,1
+18372,40,M,M,5e4,1,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+18374,36,M,M,1e5,2,Partial College,Professional,1,0,0-1 Miles,0
+18377,50,S,F,7e4,2,Partial College,Professional,1,1,5-10 Miles,1
+18386,49,M,M,12e4,3,Partial College,Professional,1,3,5-10 Miles,1
+18389,50,S,M,8e4,4,Partial College,Professional,0,2,0-1 Miles,1
+18392,44,S,F,8e4,4,Partial College,Professional,0,2,0-1 Miles,1
+18400,44,S,M,12e4,3,High School,Professional,1,4,5-10 Miles,1
+18404,51,M,F,8e4,4,Partial College,Professional,1,3,1-2 Miles,0
+18406,45,S,M,13e4,3,Bachelors,Management,0,2,0-1 Miles,1
+18413,57,M,M,8e4,2,Partial College,Professional,1,1,1-2 Miles,1
+18416,52,M,F,1e5,2,Partial College,Professional,1,4,5-10 Miles,1
+18424,58,S,M,6e4,0,High School,Professional,1,2,5-10 Miles,0
+18431,60,M,M,4e4,0,Partial College,Professional,0,2,5-10 Miles,1
+18438,71,M,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+18448,34,M,F,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+18453,35,S,F,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+18456,35,S,M,6e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,0
+18459,32,S,F,3e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,1
+18479,38,M,F,7e4,0,Partial College,Professional,1,2,5-10 Miles,1
+18480,39,S,F,7e4,0,Partial College,Professional,1,2,5-10 Miles,1
+18499,38,S,M,6e4,0,Partial College,Professional,1,2,5-10 Miles,0
+18500,38,M,M,6e4,0,Partial College,Professional,1,2,5-10 Miles,0
+18508,55,S,F,7e4,2,Partial College,Professional,1,0,5-10 Miles,1
+18509,45,M,M,6e4,0,High School,Professional,0,2,1-2 Miles,0
+18510,56,S,M,6e4,0,High School,Professional,1,2,5-10 Miles,0
+18511,56,S,F,7e4,0,Partial College,Professional,1,2,5-10 Miles,1
+18517,36,M,M,1e5,1,Bachelors,Management,1,4,0-1 Miles,0
+18518,47,S,F,1e5,1,Bachelors,Management,1,4,2-5 Miles,1
+18520,46,M,M,11e4,2,Bachelors,Management,1,3,1-2 Miles,0
+18523,48,M,M,8e4,3,Bachelors,Management,1,0,2-5 Miles,0
+18526,44,S,M,7e4,0,Bachelors,Professional,0,1,2-5 Miles,1
+18531,70,S,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+18537,69,S,F,7e4,0,Bachelors,Management,1,2,10+ Miles,1
+18549,41,M,F,5e4,1,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+18550,41,M,F,5e4,1,Bachelors,Skilled Manual,1,1,0-1 Miles,0
+18554,41,M,F,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+18555,41,M,F,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+18556,42,M,M,5e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+18567,45,S,F,5e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+18570,46,S,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+18577,46,M,F,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+18578,46,S,M,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+18579,41,M,M,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+18582,43,M,M,7e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+18583,43,S,M,7e4,5,Graduate Degree,Professional,1,2,2-5 Miles,0
+18594,46,S,F,8e4,3,Bachelors,Skilled Manual,1,3,10+ Miles,1
+18595,36,S,M,8e4,3,Bachelors,Skilled Manual,1,3,10+ Miles,1
+18601,48,S,F,6e4,5,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+18602,42,M,M,6e4,5,Bachelors,Skilled Manual,1,3,5-10 Miles,0
+18611,49,M,F,7e4,2,Bachelors,Professional,1,2,2-5 Miles,1
+18647,59,S,F,2e4,0,High School,Manual,1,2,1-2 Miles,1
+18663,55,M,M,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+18672,53,M,M,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+18674,48,S,F,8e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+18675,42,M,F,6e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+18680,38,M,M,4e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+18686,35,S,M,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+18690,83,M,M,4e4,0,Bachelors,Professional,1,1,0-1 Miles,0
+18774,36,S,M,6e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+18778,38,M,M,3e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+18780,39,S,M,6e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,1
+18786,44,S,M,12e4,1,Bachelors,Management,0,4,1-2 Miles,0
+18800,35,M,F,6e4,1,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+18802,35,M,M,6e4,1,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+18807,48,S,M,13e4,2,Graduate Degree,Management,0,2,1-2 Miles,0
+18813,49,S,F,9e4,0,Partial College,Professional,1,1,5-10 Miles,0
+18823,50,S,M,11e4,3,Bachelors,Management,0,1,1-2 Miles,0
+18828,51,M,F,8e4,4,Partial College,Professional,1,3,1-2 Miles,0
+18832,51,M,M,13e4,3,Bachelors,Management,0,3,2-5 Miles,1
+18833,57,M,F,6e4,0,High School,Professional,0,2,1-2 Miles,0
+18835,57,S,F,6e4,0,High School,Professional,1,2,5-10 Miles,0
+18836,57,S,F,6e4,0,High School,Professional,1,2,5-10 Miles,0
+18838,51,M,F,8e4,2,Partial College,Professional,1,1,5-10 Miles,1
+18843,76,M,M,5e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+18844,70,S,M,5e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+18848,76,M,M,7e4,0,Graduate Degree,Management,1,2,1-2 Miles,1
+18849,52,S,F,1e5,2,Partial College,Professional,1,4,5-10 Miles,1
+18851,57,M,M,8e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+18853,58,M,F,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+18861,58,M,F,7e4,1,High School,Professional,1,0,5-10 Miles,0
+18863,57,S,M,7e4,1,High School,Professional,1,0,5-10 Miles,1
+18867,59,M,M,4e4,0,Partial College,Professional,0,2,1-2 Miles,1
+18868,60,S,M,4e4,0,Partial College,Professional,1,2,5-10 Miles,1
+18880,71,M,M,6e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+18882,71,M,M,7e4,0,Graduate Degree,Management,0,2,1-2 Miles,1
+18887,35,S,F,4e4,0,Partial High School,Clerical,1,2,5-10 Miles,0
+18904,31,S,F,3e4,0,Partial College,Skilled Manual,0,2,5-10 Miles,1
+18913,36,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+18919,38,S,M,6e4,0,Partial College,Skilled Manual,0,2,5-10 Miles,0
+18920,39,S,M,6e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,0
+18921,39,S,F,6e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,0
+18923,38,M,F,7e4,0,Partial College,Professional,0,2,0-1 Miles,1
+18933,32,S,F,3e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+18935,46,M,F,13e4,1,Graduate Degree,Management,1,3,1-2 Miles,0
+18936,46,S,F,16e4,0,Graduate Degree,Management,0,3,1-2 Miles,1
+18945,56,M,M,6e4,0,High School,Professional,0,2,5-10 Miles,0
+18948,50,M,F,7e4,0,Partial College,Professional,0,2,0-1 Miles,1
+18950,47,S,F,9e4,4,Partial College,Professional,1,3,2-5 Miles,1
+18959,50,S,M,7e4,0,Bachelors,Professional,0,1,2-5 Miles,1
+18965,45,M,M,4e4,3,High School,Skilled Manual,1,3,10+ Miles,0
+18974,69,M,M,8e4,0,Bachelors,Management,1,2,1-2 Miles,1
+18985,67,M,F,7e4,0,Bachelors,Management,1,2,2-5 Miles,0
+18992,65,M,M,6e4,0,Bachelors,Management,1,2,2-5 Miles,0
+18993,65,M,M,6e4,0,Bachelors,Management,1,2,10+ Miles,0
+18996,64,M,F,7e4,1,Partial College,Professional,1,1,10+ Miles,0
+19012,62,M,M,8e4,1,Bachelors,Management,1,1,1-2 Miles,0
+19013,61,S,F,8e4,1,Bachelors,Management,1,2,5-10 Miles,1
+19115,42,M,F,5e4,1,Bachelors,Skilled Manual,1,1,0-1 Miles,0
+19117,31,S,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+19118,41,M,M,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+19123,37,M,F,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+19126,36,M,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+19134,45,S,F,5e4,2,Bachelors,Skilled Manual,0,1,0-1 Miles,0
+19135,41,M,M,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+19136,46,M,M,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+19137,41,S,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+19142,45,M,M,7e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+19152,48,M,M,6e4,4,Bachelors,Skilled Manual,1,3,10+ Miles,0
+19155,47,M,F,6e4,5,Bachelors,Skilled Manual,1,3,10+ Miles,0
+19164,44,S,F,7e4,0,Bachelors,Professional,0,1,2-5 Miles,1
+19165,44,S,F,7e4,0,Bachelors,Professional,0,1,2-5 Miles,1
+19199,37,S,M,4e4,3,Partial College,Clerical,1,0,1-2 Miles,1
+19203,59,S,M,2e4,0,High School,Manual,1,2,1-2 Miles,1
+19210,52,M,F,3e4,0,High School,Clerical,1,1,10+ Miles,0
+19211,58,M,F,4e4,0,Partial College,Clerical,1,1,0-1 Miles,1
+19215,50,S,M,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+19216,56,S,M,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+19221,55,M,F,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+19224,54,M,F,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+19225,54,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+19238,34,M,F,4e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+19245,36,M,M,6e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+19399,51,S,M,4e4,0,Bachelors,Professional,0,1,2-5 Miles,0
+19401,45,S,M,6e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+19403,45,S,F,6e4,0,Graduate Degree,Professional,0,1,2-5 Miles,1
+19414,43,M,F,6e4,2,Bachelors,Professional,1,1,2-5 Miles,1
+19525,52,S,F,4e4,0,Bachelors,Professional,0,1,2-5 Miles,0
+19534,45,S,M,6e4,0,Graduate Degree,Professional,1,1,2-5 Miles,1
+19540,52,M,F,6e4,3,Bachelors,Professional,1,0,2-5 Miles,0
+19545,37,S,M,6e4,0,Bachelors,Professional,1,1,2-5 Miles,1
+19551,49,M,M,7e4,4,Graduate Degree,Professional,1,0,0-1 Miles,0
+19637,36,S,M,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+19641,32,S,M,3e4,0,Partial High School,Clerical,0,2,5-10 Miles,0
+19642,33,S,F,3e4,0,Partial High School,Clerical,0,2,5-10 Miles,0
+19643,33,M,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+19648,32,S,F,3e4,0,Partial High School,Clerical,1,2,5-10 Miles,0
+19649,33,S,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+19657,40,S,F,8e4,0,Bachelors,Management,0,1,0-1 Miles,1
+19658,44,S,M,9e4,4,Bachelors,Management,1,1,1-2 Miles,1
+19661,44,S,M,9e4,4,Bachelors,Management,1,1,1-2 Miles,1
+19662,38,M,F,9e4,4,Bachelors,Management,1,1,1-2 Miles,0
+19671,34,M,M,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+19682,40,M,M,5e4,1,Bachelors,Skilled Manual,1,0,0-1 Miles,1
+19695,44,M,M,1e5,2,Partial College,Professional,1,3,1-2 Miles,0
+19696,50,M,M,12e4,3,Partial College,Professional,1,4,5-10 Miles,1
+19701,57,M,F,6e4,0,High School,Professional,0,2,1-2 Miles,1
+19705,57,S,F,7e4,3,High School,Professional,1,0,5-10 Miles,1
+19715,52,M,M,12e4,3,High School,Professional,0,4,2-5 Miles,0
+19719,54,S,M,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+19723,53,M,F,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+19728,73,M,M,6e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+19730,74,M,M,7e4,0,Graduate Degree,Management,0,2,1-2 Miles,1
+19733,72,M,F,6e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+19736,72,M,F,7e4,0,Graduate Degree,Management,1,2,1-2 Miles,1
+19737,66,S,F,7e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+19739,72,M,M,7e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+19742,71,M,F,5e4,0,Bachelors,Management,1,2,10+ Miles,0
+19743,71,S,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+19747,69,M,M,5e4,0,Bachelors,Management,1,2,10+ Miles,0
+19756,35,S,M,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+19775,37,S,F,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+19780,38,S,F,7e4,0,Partial College,Professional,0,2,0-1 Miles,1
+19805,32,S,F,6e4,0,Partial College,Professional,0,2,5-10 Miles,0
+19808,46,M,F,13e4,1,Graduate Degree,Management,1,3,0-1 Miles,1
+19809,40,M,M,13e4,1,Graduate Degree,Management,1,3,1-2 Miles,0
+19823,46,M,F,9e4,4,Partial College,Professional,1,3,2-5 Miles,0
+19831,50,M,M,7e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,1
+19832,39,M,F,4e4,3,High School,Skilled Manual,0,3,5-10 Miles,0
+19836,70,M,M,6e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+19837,59,M,M,7e4,0,Bachelors,Management,1,2,10+ Miles,1
+19839,69,M,F,6e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+19841,63,M,F,7e4,0,Bachelors,Management,0,2,1-2 Miles,1
+19852,66,S,M,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+19861,65,M,F,7e4,1,Partial College,Professional,1,1,2-5 Miles,0
+19869,64,M,F,7e4,1,Partial College,Professional,1,2,1-2 Miles,1
+19873,62,S,M,4e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,0
+19874,51,M,F,4e4,1,Partial High School,Skilled Manual,1,3,10+ Miles,1
+19875,62,M,M,6e4,1,Partial College,Professional,1,2,2-5 Miles,1
+19880,62,M,F,7e4,2,Partial College,Professional,0,1,1-2 Miles,0
+19885,60,S,M,6e4,1,High School,Professional,1,2,10+ Miles,0
+19886,61,M,M,6e4,1,High School,Professional,1,2,10+ Miles,0
+19895,55,M,M,6e4,1,High School,Professional,1,2,10+ Miles,0
+19980,48,M,F,9e4,5,Partial College,Professional,1,3,2-5 Miles,0
+19988,35,M,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+19990,41,M,M,7e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+20006,45,S,F,5e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+20011,46,M,M,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+20013,43,S,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+20024,47,S,M,4e4,0,Bachelors,Professional,1,1,2-5 Miles,1
+20035,44,M,M,7e4,2,Bachelors,Professional,1,2,2-5 Miles,1
+20039,49,S,F,7e4,2,Bachelors,Professional,0,2,0-1 Miles,1
+20068,38,S,F,4e4,3,Partial College,Clerical,1,2,1-2 Miles,1
+20071,41,M,M,6e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+20074,59,S,M,1e4,1,High School,Manual,1,2,1-2 Miles,1
+20077,58,M,M,1e4,1,High School,Manual,1,2,1-2 Miles,1
+20087,53,M,M,2e4,0,Partial High School,Manual,0,2,1-2 Miles,0
+20090,58,M,M,3e4,0,High School,Clerical,1,1,2-5 Miles,1
+20098,44,M,F,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+20099,56,M,M,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+20109,54,S,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+20110,54,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+20111,53,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+20112,54,S,F,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+20115,53,M,F,4e4,0,Partial College,Clerical,1,1,0-1 Miles,0
+20116,53,M,F,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+20117,40,M,M,5e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+20119,39,M,M,4e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+20120,39,S,M,4e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+20126,40,M,M,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+20181,50,M,F,7e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+20193,39,S,F,6e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+20196,51,M,M,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+20272,37,S,M,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+20274,36,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+20275,32,M,F,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+20279,35,S,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+20286,35,S,F,4e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+20287,35,S,F,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+20289,36,S,F,4e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+20291,36,S,F,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+20293,38,S,F,3e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+20296,39,S,F,6e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,1
+20297,39,S,F,13e4,0,Graduate Degree,Management,0,2,0-1 Miles,1
+20304,33,S,M,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+20315,34,S,M,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+20322,49,S,F,9e4,0,Partial College,Professional,1,1,10+ Miles,0
+20325,49,S,M,13e4,2,Bachelors,Management,0,4,1-2 Miles,0
+20333,49,S,F,1e5,2,Partial College,Professional,0,3,1-2 Miles,0
+20339,50,M,F,13e4,2,Bachelors,Management,1,4,2-5 Miles,1
+20341,51,M,M,7e4,4,Partial College,Professional,1,3,5-10 Miles,0
+20350,57,M,F,6e4,0,High School,Professional,0,2,1-2 Miles,1
+20353,57,S,F,8e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+20354,57,M,M,8e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+20357,77,M,F,5e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+20364,76,M,F,13e4,3,Graduate Degree,Management,1,3,2-5 Miles,0
+20369,52,S,M,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+20378,69,M,M,6e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+20379,74,S,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+20382,73,M,M,7e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+20386,72,M,F,7e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+20395,60,S,F,5e4,0,Bachelors,Management,0,2,1-2 Miles,1
+20401,70,M,F,5e4,0,Bachelors,Management,1,2,1-2 Miles,1
+20405,34,S,M,7e4,0,Partial College,Skilled Manual,0,2,0-1 Miles,1
+20421,32,S,F,4e4,0,Partial High School,Clerical,1,2,5-10 Miles,0
+20437,36,S,F,6e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,1
+20449,36,S,F,6e4,0,Partial College,Professional,0,2,1-2 Miles,0
+20462,46,S,F,16e4,0,Graduate Degree,Management,0,4,1-2 Miles,1
+20464,55,M,F,7e4,1,Partial College,Professional,1,0,0-1 Miles,0
+20466,50,M,M,9e4,0,Partial College,Professional,1,1,5-10 Miles,0
+20470,50,S,F,7e4,0,Partial College,Professional,1,2,5-10 Miles,1
+20472,42,S,M,9e4,4,Partial College,Professional,1,3,2-5 Miles,1
+20473,47,M,M,9e4,5,Partial College,Professional,1,3,0-1 Miles,0
+20476,47,S,F,13e4,2,Graduate Degree,Management,0,1,0-1 Miles,1
+20477,47,S,M,13e4,2,Graduate Degree,Management,0,2,0-1 Miles,0
+20488,70,M,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+20496,69,M,F,9e4,0,Bachelors,Management,0,2,1-2 Miles,1
+20499,62,S,M,4e4,0,High School,Professional,1,2,10+ Miles,0
+20505,67,M,F,4e4,0,High School,Professional,0,2,10+ Miles,0
+20507,56,M,M,7e4,0,Bachelors,Management,0,2,2-5 Miles,0
+20508,66,S,M,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+20512,65,M,F,7e4,1,Partial College,Professional,1,1,2-5 Miles,0
+20516,65,M,M,7e4,1,Partial College,Professional,1,1,10+ Miles,0
+20518,59,M,F,7e4,1,Partial College,Professional,1,1,10+ Miles,0
+20524,57,S,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+20527,63,M,F,7e4,1,Partial College,Professional,1,2,1-2 Miles,1
+20534,51,M,M,6e4,1,Partial College,Professional,1,1,2-5 Miles,0
+20536,62,S,F,8e4,1,Bachelors,Management,1,1,5-10 Miles,0
+20650,37,M,M,5e4,1,Bachelors,Skilled Manual,1,0,0-1 Miles,1
+20652,42,M,F,5e4,1,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+20666,43,S,F,7e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+20667,43,S,F,7e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+20670,42,M,F,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+20675,39,S,F,5e4,2,Bachelors,Skilled Manual,0,1,0-1 Miles,1
+20676,45,M,M,6e4,3,Bachelors,Skilled Manual,1,0,2-5 Miles,0
+20692,41,M,M,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,0
+20693,47,S,M,6e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+20695,48,M,M,6e4,4,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+20698,42,M,M,6e4,4,Bachelors,Skilled Manual,1,3,5-10 Miles,0
+20699,48,S,M,6e4,2,Bachelors,Skilled Manual,0,2,0-1 Miles,1
+20702,49,S,M,7e4,2,Bachelors,Skilled Manual,0,2,0-1 Miles,1
+20708,38,S,M,7e4,2,Bachelors,Professional,1,3,2-5 Miles,1
+20736,37,S,F,4e4,4,Partial College,Clerical,1,1,1-2 Miles,1
+20745,52,M,F,2e4,0,Partial High School,Manual,0,2,1-2 Miles,0
+20746,42,M,F,2e4,0,Partial High School,Manual,0,2,1-2 Miles,0
+20752,56,M,M,3e4,0,High School,Clerical,0,2,0-1 Miles,0
+20754,57,M,M,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+20755,57,M,M,4e4,0,Partial College,Clerical,1,1,0-1 Miles,1
+20765,55,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+20769,54,M,F,4e4,0,Partial College,Clerical,1,1,0-1 Miles,0
+20772,48,S,F,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+20773,54,S,F,8e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+20777,52,M,F,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+20779,47,M,F,6e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+20781,52,M,F,6e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+20787,39,M,F,4e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+20788,39,S,F,4e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+20791,39,M,M,4e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+21138,39,M,F,7e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,1
+21153,45,M,M,6e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+21157,53,M,M,6e4,4,Bachelors,Professional,1,1,0-1 Miles,0
+21234,36,S,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+21235,36,S,F,4e4,0,High School,Skilled Manual,0,1,0-1 Miles,1
+21244,34,M,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+21251,32,S,F,3e4,0,Partial High School,Clerical,0,2,5-10 Miles,0
+21262,36,S,F,4e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+21273,44,M,F,1e5,0,Bachelors,Management,1,3,1-2 Miles,0
+21285,48,M,F,9e4,0,Partial College,Professional,0,1,10+ Miles,0
+21286,49,S,M,1e5,2,Partial College,Professional,1,2,5-10 Miles,0
+21288,49,S,M,13e4,2,Bachelors,Management,0,4,1-2 Miles,0
+21291,44,M,F,1e5,2,Partial College,Professional,1,3,5-10 Miles,1
+21298,51,M,M,9e4,3,High School,Professional,1,1,1-2 Miles,0
+21302,57,M,M,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+21306,57,S,M,6e4,0,High School,Professional,1,2,5-10 Miles,0
+21310,51,M,F,9e4,1,High School,Professional,1,1,10+ Miles,1
+21311,56,S,F,9e4,1,High School,Professional,1,1,10+ Miles,1
+21316,76,M,M,13e4,3,Graduate Degree,Management,0,3,2-5 Miles,0
+21321,46,S,M,9e4,3,High School,Professional,0,3,1-2 Miles,0
+21328,53,S,M,7e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+21341,73,M,M,6e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+21345,74,M,F,8e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+21347,73,S,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+21350,72,M,F,7e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+21354,70,S,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+21357,71,S,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+21388,33,S,F,8e4,0,Bachelors,Management,0,1,0-1 Miles,1
+21397,31,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+21410,33,M,M,7e4,0,Partial College,Professional,0,2,0-1 Miles,1
+21416,32,S,M,6e4,0,Partial College,Professional,0,2,1-2 Miles,1
+21419,46,M,M,12e4,2,Bachelors,Management,1,3,0-1 Miles,0
+21431,41,S,M,8e4,0,Bachelors,Management,0,1,2-5 Miles,0
+21432,46,M,F,1e5,1,Bachelors,Management,1,4,2-5 Miles,0
+21433,41,M,M,11e4,2,Bachelors,Management,1,4,2-5 Miles,0
+21434,46,S,F,13e4,2,Graduate Degree,Management,0,1,0-1 Miles,1
+21435,41,S,M,15e4,0,Bachelors,Management,0,2,0-1 Miles,1
+21443,70,M,F,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+21448,69,M,F,8e4,0,Bachelors,Management,0,2,1-2 Miles,1
+21473,63,M,F,4e4,1,High School,Professional,1,2,2-5 Miles,0
+21474,63,M,M,6e4,1,Partial College,Professional,1,1,10+ Miles,0
+21481,63,M,M,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+21485,47,M,M,6e4,1,Partial College,Professional,0,2,2-5 Miles,1
+21487,63,S,F,7e4,1,Partial College,Professional,1,2,10+ Miles,1
+21490,61,M,M,4e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,0
+21492,61,S,M,6e4,1,Partial College,Professional,1,1,10+ Miles,0
+21493,61,S,M,8e4,1,Bachelors,Management,1,1,5-10 Miles,0
+21498,55,M,M,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+21502,54,S,F,6e4,1,High School,Professional,1,2,10+ Miles,0
+21503,60,M,F,6e4,1,High School,Professional,1,2,10+ Miles,0
+21504,60,M,F,6e4,1,High School,Professional,1,2,2-5 Miles,1
+21577,78,M,F,5e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+21594,32,M,F,5e4,2,Bachelors,Skilled Manual,1,0,0-1 Miles,1
+21596,41,M,M,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+21608,36,M,M,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+21615,45,S,F,5e4,2,Bachelors,Skilled Manual,0,1,0-1 Miles,1
+21618,40,M,M,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+21626,37,M,F,7e4,5,Graduate Degree,Professional,1,2,0-1 Miles,0
+21633,47,M,M,5e4,3,Bachelors,Skilled Manual,1,3,10+ Miles,0
+21637,37,S,M,4e4,0,Bachelors,Professional,0,1,2-5 Miles,1
+21640,48,M,M,6e4,5,Bachelors,Skilled Manual,0,3,2-5 Miles,0
+21641,37,M,F,6e4,2,Bachelors,Skilled Manual,1,2,2-5 Miles,1
+21643,48,M,M,6e4,2,Bachelors,Skilled Manual,1,2,2-5 Miles,1
+21644,48,M,F,6e4,2,Bachelors,Skilled Manual,1,2,2-5 Miles,1
+21654,48,S,M,7e4,2,Bachelors,Professional,1,2,2-5 Miles,1
+21693,46,S,F,6e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+21698,59,M,F,2e4,0,High School,Manual,0,2,1-2 Miles,0
+21706,43,M,F,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+21707,44,M,F,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+21708,49,M,F,4e4,0,Partial College,Clerical,1,1,0-1 Miles,0
+21709,48,S,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+21710,42,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+21715,48,M,M,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+21716,54,M,M,8e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+21723,40,M,F,5e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+21725,34,S,F,5e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+21741,45,M,F,7e4,0,Partial College,Professional,1,2,5-10 Miles,1
+21745,48,S,F,8e4,3,Bachelors,Management,1,0,2-5 Miles,0
+21747,50,M,M,7e4,0,Bachelors,Professional,1,1,2-5 Miles,1
+21753,69,M,F,7e4,0,Bachelors,Management,1,2,1-2 Miles,0
+21759,68,M,F,4e4,0,High School,Professional,1,2,10+ Miles,0
+21764,67,M,M,4e4,0,High School,Professional,1,2,10+ Miles,0
+21779,59,S,M,7e4,1,Partial College,Professional,1,1,10+ Miles,0
+21791,63,M,M,7e4,1,Bachelors,Management,1,2,1-2 Miles,1
+21793,63,M,F,6e4,1,Partial College,Professional,1,2,2-5 Miles,1
+21800,61,M,F,6e4,1,Partial College,Professional,1,1,2-5 Miles,0
+21803,60,M,F,4e4,1,Partial High School,Skilled Manual,1,3,10+ Miles,0
+21804,55,M,F,6e4,1,High School,Professional,1,2,10+ Miles,0
+21809,49,M,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+21812,60,M,M,6e4,1,High School,Professional,0,2,2-5 Miles,1
+21900,37,S,M,8e4,3,Partial College,Professional,1,2,2-5 Miles,0
+21907,78,M,F,6e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+21908,78,M,F,6e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+21927,44,S,F,6e4,0,Graduate Degree,Professional,0,1,2-5 Miles,1
+21941,54,S,F,6e4,2,Bachelors,Professional,0,1,0-1 Miles,1
+22015,31,M,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+22027,33,S,M,3e4,0,Partial High School,Clerical,0,2,5-10 Miles,0
+22044,34,S,M,8e4,0,Bachelors,Management,0,1,0-1 Miles,1
+22045,38,S,M,8e4,0,Bachelors,Management,0,1,0-1 Miles,1
+22049,39,S,M,13e4,0,Graduate Degree,Management,0,1,10+ Miles,0
+22053,38,S,M,12e4,1,Bachelors,Management,0,4,0-1 Miles,0
+22056,33,M,M,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,0
+22068,49,S,M,1e5,2,Partial College,Professional,1,2,5-10 Miles,0
+22082,45,S,M,11e4,3,Bachelors,Management,1,3,5-10 Miles,1
+22086,50,M,F,11e4,3,Partial College,Professional,1,4,5-10 Miles,0
+22087,45,M,F,12e4,3,High School,Professional,1,4,2-5 Miles,0
+22091,57,M,F,8e4,2,Partial College,Professional,1,1,5-10 Miles,1
+22092,57,M,F,9e4,1,High School,Professional,1,1,10+ Miles,1
+22094,57,M,M,9e4,1,High School,Professional,1,1,10+ Miles,1
+22098,76,S,F,5e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+22099,77,M,M,8e4,0,Graduate Degree,Management,1,2,1-2 Miles,1
+22102,47,M,M,1e5,3,Partial College,Professional,1,1,1-2 Miles,0
+22112,57,M,F,6e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,1
+22120,58,M,F,6e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+22123,75,S,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+22124,75,M,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+22135,73,M,F,7e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+22136,72,M,M,8e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+22137,72,M,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,1
+22138,72,M,F,8e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+22146,64,S,M,5e4,0,Bachelors,Management,1,2,10+ Miles,0
+22152,34,M,M,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+22157,34,S,F,4e4,0,Partial High School,Clerical,0,2,5-10 Miles,0
+22158,35,S,F,4e4,0,Partial High School,Clerical,1,2,5-10 Miles,0
+22185,37,M,M,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+22190,36,S,M,6e4,0,Partial College,Professional,0,2,1-2 Miles,0
+22191,36,S,M,6e4,0,Partial College,Professional,1,2,5-10 Miles,0
+22217,54,M,M,7e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+22225,55,S,F,9e4,0,Partial College,Professional,1,1,2-5 Miles,1
+22230,55,M,F,7e4,0,Partial College,Professional,1,2,5-10 Miles,1
+22231,56,M,F,7e4,0,Partial College,Professional,1,2,5-10 Miles,1
+22235,34,M,M,6e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+22245,37,S,M,5e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+22257,42,M,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+22260,45,M,F,5e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+22264,45,S,F,6e4,0,Graduate Degree,Professional,0,0,0-1 Miles,0
+22265,45,M,M,7e4,0,Graduate Degree,Professional,0,0,0-1 Miles,0
+22267,46,M,F,7e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+22269,32,M,M,7e4,5,Graduate Degree,Professional,1,3,10+ Miles,0
+22279,46,M,F,5e4,3,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+22282,43,S,M,4e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+22284,42,S,F,6e4,4,Bachelors,Skilled Manual,0,3,10+ Miles,1
+22287,42,S,F,6e4,5,Bachelors,Skilled Manual,1,3,5-10 Miles,1
+22288,47,S,F,6e4,2,Bachelors,Skilled Manual,0,2,0-1 Miles,1
+22289,37,M,M,6e4,2,Bachelors,Skilled Manual,1,2,2-5 Miles,1
+22290,37,M,F,7e4,2,Bachelors,Professional,1,2,2-5 Miles,1
+22295,44,S,F,7e4,0,Bachelors,Professional,1,1,2-5 Miles,1
+22298,38,S,M,7e4,0,Bachelors,Professional,0,1,2-5 Miles,1
+22331,82,M,F,2e4,0,Partial College,Clerical,0,2,0-1 Miles,0
+22337,59,M,F,2e4,0,High School,Manual,0,2,1-2 Miles,0
+22340,58,M,M,2e4,0,High School,Manual,0,2,1-2 Miles,0
+22344,57,M,F,3e4,0,High School,Clerical,1,1,1-2 Miles,1
+22347,51,M,F,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+22350,56,M,F,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+22352,54,M,F,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+22353,55,M,F,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+22355,38,M,M,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+22371,39,S,M,5e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+22545,34,M,F,5e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+22549,41,M,F,7e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+22716,36,S,M,1e5,1,Bachelors,Management,1,4,2-5 Miles,1
+22717,41,M,F,1e5,1,Partial College,Professional,1,4,2-5 Miles,1
+22720,35,M,M,13e4,1,Graduate Degree,Management,1,4,0-1 Miles,0
+22721,50,M,F,4e4,3,High School,Skilled Manual,1,2,2-5 Miles,0
+22722,50,S,F,7e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+22725,69,M,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+22730,69,M,M,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+22746,67,M,F,7e4,0,Bachelors,Management,1,2,2-5 Miles,0
+22747,67,M,F,7e4,0,Bachelors,Management,1,2,10+ Miles,0
+22760,63,M,M,6e4,1,Partial College,Professional,0,1,2-5 Miles,1
+22761,64,S,M,6e4,1,Partial College,Professional,1,1,10+ Miles,0
+22762,64,M,F,6e4,1,Partial College,Professional,1,1,10+ Miles,0
+22764,64,M,M,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+22768,63,M,M,6e4,1,Bachelors,Management,1,0,2-5 Miles,1
+22772,61,M,F,4e4,1,Partial High School,Skilled Manual,1,2,2-5 Miles,0
+22773,56,M,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+22778,60,M,F,6e4,1,Partial College,Professional,1,1,10+ Miles,1
+22779,60,M,M,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+22784,54,M,M,7e4,1,Partial High School,Skilled Manual,1,2,2-5 Miles,1
+22789,60,M,M,7e4,1,Partial High School,Skilled Manual,1,3,10+ Miles,1
+22792,48,M,M,7e4,3,Partial College,Professional,1,1,10+ Miles,0
+22861,48,M,M,9e4,5,Partial College,Professional,1,3,0-1 Miles,0
+22873,50,M,M,7e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+22876,45,M,F,4e4,2,High School,Skilled Manual,1,2,2-5 Miles,1
+22878,51,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+22880,52,M,F,4e4,2,High School,Skilled Manual,1,2,0-1 Miles,1
+22890,47,M,F,6e4,3,Bachelors,Professional,1,0,2-5 Miles,0
+22891,53,M,F,6e4,3,Bachelors,Professional,1,0,2-5 Miles,0
+22892,53,S,M,7e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+22893,53,S,F,7e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+22895,52,S,M,7e4,5,Graduate Degree,Professional,1,3,10+ Miles,1
+22896,54,M,M,6e4,2,Bachelors,Professional,1,1,2-5 Miles,1
+22897,48,M,F,6e4,0,Bachelors,Professional,1,1,2-5 Miles,1
+22899,54,M,M,6e4,0,Bachelors,Professional,1,1,2-5 Miles,1
+22901,48,S,F,6e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+22967,35,M,F,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+22975,34,S,F,3e4,0,Partial High School,Clerical,0,2,0-1 Miles,1
+22979,35,S,M,3e4,0,Partial High School,Clerical,0,2,0-1 Miles,0
+22981,35,S,F,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+22984,32,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+22998,38,M,F,8e4,0,Bachelors,Management,1,1,1-2 Miles,1
+23010,34,S,M,4e4,0,Partial High School,Clerical,1,2,5-10 Miles,0
+23016,41,M,F,7e4,1,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+23018,41,M,M,7e4,1,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+23023,44,M,F,9e4,4,Partial College,Professional,1,3,5-10 Miles,0
+23030,51,M,M,9e4,3,High School,Professional,1,2,1-2 Miles,0
+23036,51,S,M,13e4,3,Bachelors,Management,0,3,0-1 Miles,1
+23037,57,S,M,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+23041,56,S,F,7e4,3,High School,Professional,1,0,5-10 Miles,1
+23048,75,M,F,4e4,0,Partial College,Professional,1,2,5-10 Miles,0
+23053,46,M,F,9e4,3,High School,Professional,1,3,5-10 Miles,0
+23064,75,S,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+23065,75,M,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+23068,73,M,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+23069,71,M,F,7e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+23071,66,M,F,7e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+23074,71,S,F,5e4,0,Bachelors,Management,0,2,1-2 Miles,1
+23080,34,S,F,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+23082,34,M,M,7e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+23090,34,S,M,4e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+23091,35,S,M,6e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,0
+23110,36,S,F,6e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,1
+23112,37,S,M,5e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+23114,38,S,F,6e4,0,Partial College,Skilled Manual,0,2,5-10 Miles,1
+23130,40,S,F,12e4,2,Bachelors,Management,0,4,0-1 Miles,0
+23131,55,M,F,7e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+23135,55,M,M,7e4,2,Partial College,Professional,1,0,5-10 Miles,1
+23146,40,S,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+23149,41,M,F,4e4,1,Bachelors,Skilled Manual,1,1,0-1 Miles,0
+23150,42,M,F,4e4,1,Bachelors,Skilled Manual,1,1,0-1 Miles,0
+23153,43,M,F,5e4,1,Bachelors,Skilled Manual,1,1,0-1 Miles,0
+23160,36,M,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+23163,41,M,F,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+23169,38,S,M,7e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+23175,41,M,F,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+23187,42,M,M,7e4,0,Graduate Degree,Professional,0,0,0-1 Miles,1
+23200,47,M,F,5e4,3,Bachelors,Skilled Manual,1,2,0-1 Miles,0
+23201,41,S,F,5e4,3,Bachelors,Skilled Manual,0,2,0-1 Miles,0
+23205,42,S,F,4e4,0,Bachelors,Professional,0,1,2-5 Miles,0
+23216,49,S,M,6e4,2,Graduate Degree,Professional,0,0,0-1 Miles,1
+23217,49,S,F,6e4,2,Graduate Degree,Professional,1,0,2-5 Miles,1
+23245,40,S,F,6e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+23247,46,S,M,6e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+23250,59,M,F,2e4,0,High School,Manual,1,2,1-2 Miles,0
+23254,58,S,M,2e4,0,High School,Manual,0,2,1-2 Miles,0
+23257,58,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+23260,57,M,M,3e4,0,High School,Clerical,1,2,1-2 Miles,0
+23261,57,S,F,3e4,0,High School,Clerical,0,2,1-2 Miles,0
+23264,51,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+23265,57,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+23266,56,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+23269,56,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+23270,44,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+23272,49,M,M,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+23273,55,M,M,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+23279,55,S,M,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+23283,48,S,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+23287,53,S,M,4e4,0,Partial College,Clerical,0,1,1-2 Miles,1
+23295,53,S,F,6e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+23306,33,S,M,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+23318,33,S,M,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+23342,39,S,F,7e4,0,Partial College,Professional,1,2,5-10 Miles,1
+23355,38,S,M,6e4,0,Partial College,Professional,0,2,1-2 Miles,1
+23358,32,M,M,6e4,0,High School,Professional,1,2,5-10 Miles,1
+23359,46,S,M,13e4,1,Graduate Degree,Management,0,3,0-1 Miles,1
+23362,54,S,M,7e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+23368,47,M,F,6e4,5,Bachelors,Skilled Manual,1,3,10+ Miles,0
+23369,37,S,F,6e4,2,Bachelors,Skilled Manual,0,2,0-1 Miles,1
+23370,43,S,F,7e4,2,Bachelors,Professional,0,2,0-1 Miles,1
+23372,49,M,M,6e4,2,Graduate Degree,Professional,1,0,2-5 Miles,1
+23386,46,S,M,4e4,2,High School,Skilled Manual,1,2,2-5 Miles,1
+23396,46,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+23402,53,M,F,6e4,3,Bachelors,Professional,1,1,2-5 Miles,0
+23403,54,S,M,6e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+23452,55,M,M,6e4,0,High School,Professional,1,2,5-10 Miles,0
+23453,55,M,M,7e4,2,Partial College,Professional,1,0,5-10 Miles,1
+23455,56,S,M,8e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+23456,56,M,M,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+23461,46,M,F,9e4,5,Partial College,Professional,1,3,2-5 Miles,0
+23468,42,S,M,13e4,2,Graduate Degree,Management,0,2,0-1 Miles,0
+23472,55,M,F,7e4,2,Partial College,Professional,1,1,0-1 Miles,0
+23475,72,M,M,5e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+23478,49,S,F,9e4,0,Partial College,Professional,1,2,2-5 Miles,1
+23479,43,S,M,9e4,0,Partial College,Professional,0,2,0-1 Miles,1
+23480,43,S,F,9e4,0,Partial College,Professional,0,2,0-1 Miles,1
+23481,49,S,M,1e5,2,Partial College,Professional,1,2,2-5 Miles,0
+23482,49,M,F,11e4,3,Bachelors,Management,1,0,5-10 Miles,0
+23484,49,M,F,12e4,3,Partial College,Professional,1,4,5-10 Miles,1
+23491,34,S,M,1e5,2,Partial College,Professional,0,4,1-2 Miles,0
+23496,51,S,M,7e4,3,High School,Professional,1,0,5-10 Miles,0
+23502,76,M,M,11e4,3,Graduate Degree,Management,1,4,5-10 Miles,0
+23511,58,M,M,6e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+23517,63,M,M,3e4,0,High School,Professional,0,2,1-2 Miles,0
+23549,36,S,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+23554,36,M,F,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+23556,36,S,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+23560,34,S,F,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,1
+23566,33,S,M,3e4,0,Partial High School,Clerical,0,2,0-1 Miles,1
+23585,40,S,F,7e4,0,Partial College,Skilled Manual,0,2,0-1 Miles,1
+23591,49,M,M,8e4,3,Bachelors,Management,1,0,0-1 Miles,0
+23594,53,S,F,7e4,3,Partial College,Professional,1,1,10+ Miles,0
+23667,63,M,M,3e4,0,High School,Professional,1,2,5-10 Miles,1
+23674,73,M,M,6e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+23675,72,S,M,6e4,0,Bachelors,Management,1,2,10+ Miles,0
+23681,71,S,M,5e4,0,Bachelors,Management,1,2,10+ Miles,0
+23686,69,S,F,6e4,0,Bachelors,Management,1,2,10+ Miles,0
+23687,67,S,F,3e4,0,Partial High School,Clerical,0,2,1-2 Miles,0
+23691,67,S,F,2e4,0,Partial High School,Clerical,1,3,10+ Miles,0
+23697,66,M,M,3e4,0,Partial High School,Skilled Manual,1,3,10+ Miles,0
+23700,61,M,F,3e4,1,Partial High School,Skilled Manual,0,3,1-2 Miles,0
+23703,66,M,F,4e4,0,High School,Professional,1,3,10+ Miles,0
+23707,66,S,M,7e4,0,Bachelors,Management,1,3,10+ Miles,1
+23708,66,M,F,7e4,0,Bachelors,Management,1,3,10+ Miles,1
+23709,65,S,M,7e4,0,Bachelors,Management,1,3,10+ Miles,1
+23712,65,S,F,7e4,1,Bachelors,Management,1,1,10+ Miles,0
+23713,65,M,F,7e4,1,Bachelors,Management,1,1,10+ Miles,0
+23718,58,M,M,6e4,1,Partial College,Professional,1,2,2-5 Miles,1
+23723,63,M,M,6e4,1,Partial College,Professional,1,1,2-5 Miles,1
+23724,63,S,F,7e4,1,Partial College,Professional,1,2,10+ Miles,1
+23734,61,M,F,6e4,1,Partial College,Professional,0,1,2-5 Miles,0
+23737,61,M,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+23782,37,S,M,4e4,3,Partial College,Clerical,1,1,0-1 Miles,0
+23785,46,S,F,6e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+23787,58,S,M,3e4,0,High School,Clerical,0,1,5-10 Miles,0
+23789,58,M,M,3e4,0,High School,Clerical,1,1,2-5 Miles,1
+23799,55,M,F,2e4,1,Partial High School,Clerical,0,2,0-1 Miles,1
+23808,37,M,M,4e4,0,Partial College,Clerical,1,1,0-1 Miles,0
+23809,54,M,F,4e4,0,Partial College,Clerical,1,1,0-1 Miles,0
+23812,47,S,M,4e4,0,Partial College,Clerical,0,1,0-1 Miles,0
+23815,52,S,F,4e4,0,Partial College,Clerical,0,1,1-2 Miles,1
+23816,53,S,F,4e4,0,Partial College,Clerical,0,1,1-2 Miles,1
+23819,33,M,F,4e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+23822,39,M,F,4e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+23824,33,M,M,4e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+23829,39,M,M,5e4,1,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+23831,40,M,F,5e4,1,Bachelors,Skilled Manual,1,0,0-1 Miles,0
+23832,39,M,F,5e4,1,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+23833,35,M,M,5e4,1,Bachelors,Skilled Manual,1,0,0-1 Miles,1
+23836,40,S,F,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+23841,37,M,F,4e4,1,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+23861,44,M,M,7e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,0
+23863,45,S,M,4e4,0,Bachelors,Professional,0,1,0-1 Miles,0
+23864,39,S,F,4e4,0,Bachelors,Professional,0,1,0-1 Miles,0
+23866,42,M,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+23879,46,M,F,6e4,0,Graduate Degree,Professional,0,0,0-1 Miles,0
+23880,46,S,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+23884,43,M,M,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+23885,43,M,F,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+23887,47,S,M,4e4,0,Bachelors,Professional,0,1,2-5 Miles,1
+23894,47,M,M,5e4,3,Bachelors,Skilled Manual,1,3,10+ Miles,0
+24224,32,S,F,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+24231,32,S,F,6e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,1
+24234,32,S,M,7e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+24235,34,S,F,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+24262,35,M,M,6e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,0
+24286,37,S,M,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+24293,37,M,F,5e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+24297,35,M,F,6e4,0,Partial College,Professional,1,2,5-10 Miles,0
+24299,36,S,F,6e4,0,Partial College,Professional,1,2,5-10 Miles,0
+24312,38,S,M,6e4,0,Partial College,Professional,1,2,5-10 Miles,0
+24314,46,M,M,12e4,2,Bachelors,Management,1,4,2-5 Miles,0
+24315,46,M,M,13e4,1,Graduate Degree,Management,1,3,0-1 Miles,0
+24316,46,S,F,13e4,1,Graduate Degree,Management,0,3,1-2 Miles,0
+24329,49,S,F,7e4,2,Bachelors,Professional,1,2,2-5 Miles,1
+24339,50,S,F,4e4,3,High School,Skilled Manual,1,3,2-5 Miles,1
+24349,45,S,F,6e4,0,Graduate Degree,Professional,1,1,2-5 Miles,1
+24352,52,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+24353,46,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+24355,47,M,F,6e4,3,Bachelors,Professional,1,1,2-5 Miles,0
+24357,43,M,M,6e4,2,Bachelors,Professional,1,1,2-5 Miles,1
+24397,46,S,M,12e4,2,Bachelors,Management,0,4,1-2 Miles,0
+24401,48,S,M,11e4,2,Bachelors,Management,0,4,1-2 Miles,0
+24402,48,S,M,17e4,0,Graduate Degree,Management,0,3,1-2 Miles,1
+24404,78,M,M,7e4,0,Graduate Degree,Management,1,2,0-1 Miles,1
+24405,78,M,F,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+24410,44,S,F,1e5,2,Partial College,Professional,0,4,1-2 Miles,0
+24413,45,M,M,12e4,3,High School,Professional,1,4,5-10 Miles,1
+24416,51,M,M,9e4,3,High School,Professional,1,2,1-2 Miles,0
+24419,52,M,F,7e4,3,High School,Professional,1,0,5-10 Miles,0
+24422,77,M,M,8e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+24426,51,M,M,11e4,3,Partial College,Professional,1,4,5-10 Miles,0
+24439,56,M,M,4e4,0,Partial College,Professional,1,2,5-10 Miles,0
+24442,60,M,F,4e4,0,Partial College,Professional,1,2,5-10 Miles,0
+24486,37,M,M,4e4,0,High School,Skilled Manual,1,1,5-10 Miles,0
+24488,37,S,M,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+24497,34,S,F,4e4,0,High School,Skilled Manual,0,2,5-10 Miles,0
+24509,35,S,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+24518,38,S,F,5e4,0,Partial College,Skilled Manual,0,1,5-10 Miles,0
+24522,38,M,M,8e4,0,Bachelors,Management,0,1,0-1 Miles,1
+24525,44,M,M,9e4,4,Bachelors,Management,1,1,1-2 Miles,0
+24530,45,S,M,16e4,0,Graduate Degree,Management,0,0,2-5 Miles,0
+24616,62,M,F,4e4,0,High School,Professional,1,2,5-10 Miles,0
+24618,58,M,M,3e4,0,High School,Professional,1,2,5-10 Miles,0
+24623,74,M,F,6e4,0,Graduate Degree,Management,1,2,1-2 Miles,0
+24627,72,S,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+24628,73,S,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+24629,72,M,M,6e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+24645,63,M,M,6e4,0,Bachelors,Management,0,2,1-2 Miles,1
+24660,64,S,F,7e4,1,Bachelors,Management,0,1,2-5 Miles,1
+24661,65,S,F,7e4,1,Bachelors,Management,0,1,2-5 Miles,1
+24667,64,S,F,6e4,1,Partial College,Professional,1,1,10+ Miles,0
+24681,62,S,F,8e4,1,Bachelors,Management,0,1,1-2 Miles,1
+24682,60,M,F,6e4,1,High School,Professional,1,2,10+ Miles,0
+24684,61,M,M,6e4,1,Partial College,Professional,1,2,2-5 Miles,1
+24726,37,M,F,4e4,3,Partial College,Clerical,1,1,1-2 Miles,0
+24727,38,M,F,4e4,3,Partial College,Clerical,1,2,1-2 Miles,0
+24728,38,S,F,5e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+24743,56,S,F,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+24744,56,M,M,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+24749,38,M,M,2e4,1,Partial High School,Clerical,1,2,1-2 Miles,0
+24752,53,S,M,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,1
+24760,53,S,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+24766,39,M,M,4e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+24777,36,M,M,7e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+24778,40,M,M,7e4,1,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+24782,40,M,F,6e4,0,Graduate Degree,Skilled Manual,1,0,2-5 Miles,1
+24791,42,M,F,4e4,1,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+24795,37,M,F,6e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+24798,43,S,M,6e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+24799,42,S,M,6e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+24808,42,M,M,7e4,0,Graduate Degree,Professional,0,0,0-1 Miles,1
+24810,45,M,F,5e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+24822,43,M,F,7e4,5,Graduate Degree,Professional,1,3,10+ Miles,0
+24828,47,S,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+24831,41,S,M,6e4,0,Graduate Degree,Professional,1,1,2-5 Miles,1
+24926,58,S,M,3e4,0,High School,Professional,0,2,1-2 Miles,0
+24944,72,M,F,6e4,0,Bachelors,Management,1,2,10+ Miles,0
+24961,65,M,F,4e4,1,High School,Professional,1,1,2-5 Miles,0
+24963,65,M,F,4e4,1,High School,Professional,1,2,10+ Miles,0
+24964,65,M,F,4e4,1,High School,Professional,0,2,2-5 Miles,0
+24968,64,M,M,6e4,1,Partial College,Professional,1,1,10+ Miles,0
+24974,64,M,M,6e4,1,Bachelors,Management,1,0,10+ Miles,0
+24982,56,M,M,6e4,1,Partial College,Professional,1,1,10+ Miles,0
+24983,62,S,F,7e4,2,Partial College,Professional,1,1,10+ Miles,0
+24984,62,M,M,7e4,2,Partial College,Professional,1,1,1-2 Miles,0
+24986,60,M,F,6e4,1,High School,Professional,1,2,10+ Miles,0
+24993,54,M,M,7e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,0
+24996,59,M,M,6e4,1,Partial High School,Skilled Manual,1,3,10+ Miles,1
+25015,34,M,F,7e4,0,Partial College,Skilled Manual,0,2,0-1 Miles,1
+25039,37,S,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+25042,37,S,F,4e4,0,High School,Skilled Manual,0,2,1-2 Miles,1
+25050,39,S,M,7e4,0,Partial College,Professional,1,2,5-10 Miles,1
+25062,37,S,F,5e4,0,High School,Professional,1,2,5-10 Miles,0
+25066,55,S,M,7e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+25067,47,S,F,4e4,0,Bachelors,Professional,0,1,2-5 Miles,0
+25068,48,S,M,6e4,4,Bachelors,Skilled Manual,0,2,0-1 Miles,0
+25072,47,S,F,6e4,2,Bachelors,Skilled Manual,0,2,0-1 Miles,1
+25076,43,M,F,6e4,2,Graduate Degree,Professional,0,0,0-1 Miles,1
+25080,45,S,F,7e4,0,Bachelors,Professional,1,1,2-5 Miles,1
+25083,51,M,M,4e4,3,High School,Skilled Manual,1,3,10+ Miles,0
+25092,46,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+25102,53,M,F,6e4,3,Bachelors,Professional,1,0,2-5 Miles,0
+25103,53,M,F,6e4,3,Bachelors,Professional,1,0,0-1 Miles,0
+25104,52,S,F,7e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+25148,54,M,M,6e4,0,High School,Professional,0,2,1-2 Miles,1
+25154,41,M,M,11e4,2,Bachelors,Management,1,3,2-5 Miles,0
+25159,48,S,F,1e5,2,Partial College,Professional,1,0,2-5 Miles,0
+25160,37,S,F,1e5,2,Partial College,Professional,1,1,2-5 Miles,0
+25162,42,S,M,16e4,1,Bachelors,Management,0,3,0-1 Miles,1
+25171,43,M,M,9e4,0,Partial College,Professional,1,1,10+ Miles,0
+25177,39,M,M,7e4,4,Partial College,Professional,1,3,5-10 Miles,0
+25178,45,M,F,8e4,4,Partial College,Professional,1,3,1-2 Miles,0
+25185,51,S,F,13e4,3,Bachelors,Management,0,3,2-5 Miles,1
+25200,60,M,M,4e4,0,Partial College,Professional,1,2,5-10 Miles,0
+25202,61,S,M,4e4,0,Partial College,Professional,1,2,5-10 Miles,0
+25208,62,S,M,3e4,0,High School,Professional,1,2,5-10 Miles,0
+25257,31,M,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+25258,32,M,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+25280,36,S,F,4e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+25287,34,S,F,8e4,0,Bachelors,Management,0,1,0-1 Miles,1
+25290,43,S,M,9e4,4,Bachelors,Management,1,1,1-2 Miles,1
+25336,58,S,M,2e4,0,Partial High School,Clerical,1,2,1-2 Miles,0
+25344,57,M,M,3e4,0,High School,Clerical,1,1,2-5 Miles,1
+25346,56,S,M,2e4,0,Partial High School,Clerical,1,2,1-2 Miles,0
+25349,55,M,M,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+25352,55,M,M,2e4,1,Partial High School,Clerical,0,2,0-1 Miles,0
+25358,55,S,F,2e4,1,Partial High School,Clerical,1,2,1-2 Miles,0
+25364,54,M,M,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,1
+25365,54,S,F,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,1
+25366,43,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+25367,53,M,F,4e4,0,Partial College,Clerical,0,1,0-1 Miles,0
+25370,52,S,F,4e4,0,Partial College,Clerical,0,1,1-2 Miles,1
+25372,38,M,F,4e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+25374,39,S,F,4e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+25377,41,M,F,7e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+25378,41,M,F,7e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+25379,40,M,F,5e4,1,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+25382,34,S,M,6e4,0,Graduate Degree,Professional,0,0,0-1 Miles,1
+25388,43,S,M,6e4,2,Bachelors,Skilled Manual,0,0,0-1 Miles,1
+25391,43,S,F,6e4,2,Bachelors,Skilled Manual,0,0,0-1 Miles,1
+25392,42,S,M,6e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+25395,35,S,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+25400,40,M,M,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+25404,44,S,M,7e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+25418,44,S,F,5e4,2,Bachelors,Skilled Manual,0,1,0-1 Miles,1
+25422,41,M,M,8e4,3,Bachelors,Skilled Manual,1,0,2-5 Miles,0
+25429,37,S,F,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+25437,46,M,M,5e4,3,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+25439,47,M,F,5e4,3,Bachelors,Skilled Manual,1,3,10+ Miles,0
+25620,44,M,M,9e4,4,Bachelors,Management,1,1,1-2 Miles,0
+25622,39,S,F,1e5,0,Bachelors,Management,1,2,1-2 Miles,1
+25841,74,S,F,6e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+25845,72,S,M,6e4,0,Bachelors,Management,0,2,1-2 Miles,0
+25847,71,M,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+25851,71,S,M,5e4,0,Bachelors,Management,0,2,1-2 Miles,0
+25853,69,M,F,6e4,0,Bachelors,Management,1,2,10+ Miles,0
+25859,67,S,F,2e4,0,Partial High School,Clerical,1,3,10+ Miles,0
+25864,66,M,F,4e4,0,High School,Professional,1,3,10+ Miles,1
+25872,53,S,F,7e4,1,Bachelors,Management,0,1,2-5 Miles,1
+25876,64,M,M,6e4,1,Partial College,Professional,1,1,2-5 Miles,1
+25877,63,S,F,6e4,1,Partial College,Professional,1,1,10+ Miles,0
+25892,61,M,F,6e4,1,High School,Professional,1,2,2-5 Miles,1
+25897,59,M,F,7e4,1,High School,Professional,1,2,10+ Miles,0
+25899,59,M,F,7e4,1,High School,Professional,1,2,10+ Miles,0
+25900,60,M,F,7e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,0
+25916,34,M,F,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+25917,34,M,M,6e4,0,Partial College,Skilled Manual,0,2,1-2 Miles,1
+25925,34,M,F,4e4,0,Bachelors,Professional,0,2,1-2 Miles,0
+25931,35,S,M,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+25932,34,S,M,4e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+25950,37,S,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+25953,36,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+25967,54,M,F,7e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+25981,48,M,M,7e4,2,Bachelors,Professional,1,4,2-5 Miles,1
+25990,50,S,F,7e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+25992,50,M,F,7e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,1
+25997,50,M,F,6e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,1
+25998,51,M,M,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+26015,54,M,M,6e4,0,Bachelors,Professional,1,1,2-5 Miles,1
+26044,45,S,M,8e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+26054,42,S,M,1e5,1,Bachelors,Management,0,4,0-1 Miles,0
+26062,48,M,M,8e4,3,Partial College,Professional,1,2,2-5 Miles,0
+26071,57,S,F,8e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+26079,39,M,M,9e4,4,Partial College,Professional,1,4,5-10 Miles,0
+26083,50,S,F,15e4,1,Partial College,Professional,0,4,2-5 Miles,1
+26087,45,M,F,9e4,3,High School,Professional,1,1,5-10 Miles,0
+26088,39,M,M,9e4,3,High School,Professional,1,2,5-10 Miles,0
+26091,51,M,F,16e4,2,Bachelors,Management,0,4,2-5 Miles,1
+26093,51,S,F,6e4,0,High School,Professional,0,2,1-2 Miles,1
+26114,54,S,M,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+26117,59,M,M,4e4,0,Partial College,Professional,1,2,5-10 Miles,0
+26123,60,S,F,4e4,0,Partial College,Professional,1,2,5-10 Miles,0
+26127,63,M,M,3e4,0,High School,Professional,1,2,5-10 Miles,1
+26128,57,S,M,3e4,0,High School,Professional,1,2,5-10 Miles,0
+26171,37,M,M,4e4,0,High School,Skilled Manual,1,1,5-10 Miles,0
+26172,37,S,F,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+26175,32,M,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+26177,31,M,F,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+26185,35,S,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+26197,37,S,M,4e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+26201,38,S,M,8e4,0,Bachelors,Management,1,1,1-2 Miles,1
+26235,37,S,F,4e4,3,Partial College,Clerical,1,1,1-2 Miles,1
+26237,38,M,F,4e4,3,Partial College,Clerical,1,1,0-1 Miles,0
+26241,38,M,M,5e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+26243,46,S,M,8e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+26244,46,M,M,8e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+26249,57,M,M,3e4,0,High School,Clerical,1,1,2-5 Miles,1
+26250,52,S,M,3e4,0,High School,Clerical,0,1,5-10 Miles,0
+26251,58,S,M,3e4,0,High School,Clerical,0,1,5-10 Miles,0
+26254,51,S,M,2e4,0,Partial High School,Clerical,0,2,1-2 Miles,0
+26256,57,S,M,2e4,0,Partial High School,Clerical,0,2,1-2 Miles,0
+26259,52,S,M,3e4,0,High School,Clerical,0,1,10+ Miles,0
+26274,55,M,F,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+26278,42,S,M,4e4,0,Partial College,Clerical,0,1,0-1 Miles,0
+26280,53,S,M,4e4,0,Partial College,Clerical,0,1,1-2 Miles,1
+26283,34,S,M,5e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+26285,40,S,F,5e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+26287,40,S,M,5e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+26292,41,M,F,7e4,1,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+26295,40,M,F,5e4,1,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+26300,40,S,F,6e4,0,Graduate Degree,Skilled Manual,1,0,2-5 Miles,1
+26302,42,M,M,4e4,1,Bachelors,Skilled Manual,1,1,0-1 Miles,1
+26303,36,M,M,4e4,1,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+26304,42,M,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+26308,37,S,F,6e4,2,Bachelors,Skilled Manual,0,0,0-1 Miles,1
+26312,41,M,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+26320,44,M,F,7e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+26325,36,M,M,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+26332,40,M,M,8e4,3,Bachelors,Skilled Manual,0,0,0-1 Miles,0
+26334,46,S,M,8e4,3,Bachelors,Skilled Manual,1,0,2-5 Miles,0
+26341,43,M,F,7e4,5,Graduate Degree,Professional,1,2,0-1 Miles,0
+26348,47,M,M,5e4,4,Bachelors,Skilled Manual,1,1,2-5 Miles,0
+26351,47,S,F,6e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+26449,59,M,M,3e4,0,High School,Professional,1,2,5-10 Miles,0
+26453,75,S,M,5e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+26454,69,M,M,5e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+26456,73,S,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+26458,73,M,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+26462,67,S,F,6e4,0,Bachelors,Management,0,2,1-2 Miles,0
+26472,70,S,M,5e4,0,Bachelors,Management,1,2,10+ Miles,0
+26482,67,M,F,3e4,0,Partial High School,Skilled Manual,1,3,10+ Miles,1
+26495,63,S,F,4e4,1,High School,Professional,1,2,10+ Miles,0
+26496,63,M,F,4e4,1,High School,Professional,1,2,2-5 Miles,1
+26497,64,M,F,6e4,1,Partial College,Professional,1,1,10+ Miles,0
+26506,63,S,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+26508,63,M,M,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+26509,63,S,M,6e4,1,Partial College,Professional,0,2,2-5 Miles,1
+26512,57,M,F,4e4,1,Partial High School,Skilled Manual,0,2,2-5 Miles,1
+26522,55,M,M,6e4,1,Partial College,Professional,1,1,10+ Miles,0
+26526,60,M,M,7e4,1,High School,Professional,1,2,10+ Miles,0
+26544,34,M,F,3e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+26555,35,S,M,7e4,0,Partial College,Skilled Manual,0,2,0-1 Miles,0
+26557,36,S,F,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+26573,37,M,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+26584,36,M,M,6e4,0,Partial College,Professional,0,2,1-2 Miles,0
+26596,48,M,M,6e4,4,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+26601,42,S,M,6e4,2,Bachelors,Skilled Manual,1,2,2-5 Miles,1
+26603,49,S,F,7e4,2,Bachelors,Professional,0,2,0-1 Miles,1
+26606,43,S,F,6e4,2,Graduate Degree,Professional,1,0,2-5 Miles,1
+26614,51,S,M,4e4,2,High School,Skilled Manual,1,2,2-5 Miles,1
+26615,51,M,M,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+26618,52,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+26621,45,S,F,5e4,0,Partial College,Skilled Manual,0,1,2-5 Miles,0
+26622,45,S,F,5e4,0,Partial College,Skilled Manual,0,1,0-1 Miles,1
+26624,45,S,F,5e4,0,Partial College,Skilled Manual,0,1,2-5 Miles,1
+26628,85,S,M,4e4,0,High School,Skilled Manual,0,1,0-1 Miles,0
+26632,46,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+26638,53,S,F,7e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+26643,53,M,M,6e4,2,Bachelors,Professional,1,0,2-5 Miles,1
+26676,55,M,F,6e4,0,High School,Professional,1,2,5-10 Miles,1
+26678,55,S,F,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+26687,47,M,M,8e4,3,Partial College,Professional,1,2,2-5 Miles,0
+26690,48,M,F,11e4,2,Bachelors,Management,1,4,2-5 Miles,0
+26693,50,M,M,7e4,2,Partial College,Professional,1,1,5-10 Miles,0
+26700,44,S,F,8e4,4,Partial College,Professional,1,2,5-10 Miles,0
+26706,51,M,F,7e4,4,Partial College,Professional,0,3,2-5 Miles,0
+26707,40,M,F,11e4,3,Bachelors,Management,0,3,2-5 Miles,0
+26708,50,S,F,11e4,3,Partial College,Professional,0,4,2-5 Miles,1
+26711,57,S,F,6e4,0,High School,Professional,0,2,1-2 Miles,1
+26722,46,M,F,11e4,3,Partial College,Professional,1,4,2-5 Miles,0
+26726,58,S,F,6e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,1
+26728,54,S,M,7e4,0,Graduate Degree,Management,0,2,1-2 Miles,1
+26733,55,M,M,4e4,0,Partial College,Professional,1,2,5-10 Miles,0
+26775,35,M,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+26776,35,S,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+26778,37,S,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+26787,34,S,M,3e4,0,Partial High School,Clerical,0,2,5-10 Miles,0
+26801,36,M,M,6e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,1
+26803,38,M,M,5e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+26805,38,S,F,6e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,1
+26809,46,S,F,5e4,3,Bachelors,Skilled Manual,0,2,0-1 Miles,0
+26812,47,M,M,5e4,3,Bachelors,Skilled Manual,1,3,10+ Miles,0
+27014,46,M,M,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+27016,46,S,F,8e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+27017,45,S,M,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+27028,56,S,F,3e4,0,High School,Clerical,1,2,1-2 Miles,0
+27036,56,S,M,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+27037,56,M,F,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+27039,50,S,M,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+27056,53,S,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+27059,34,M,M,5e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+27078,41,M,F,4e4,1,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+27081,42,M,M,4e4,1,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+27085,41,M,M,4e4,1,Bachelors,Skilled Manual,1,1,2-5 Miles,1
+27092,36,S,F,7e4,0,Graduate Degree,Professional,0,0,0-1 Miles,1
+27097,44,M,F,7e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+27098,44,M,F,7e4,2,Bachelors,Skilled Manual,1,1,2-5 Miles,0
+27106,42,S,F,7e4,0,Graduate Degree,Professional,0,0,0-1 Miles,1
+27111,46,M,M,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+27114,40,M,M,7e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+27193,38,S,M,5e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+27197,40,M,M,8e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+27206,57,M,M,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+27207,51,S,F,2e4,0,Partial High School,Clerical,1,2,1-2 Miles,0
+27210,52,S,M,2e4,0,Partial High School,Clerical,0,2,1-2 Miles,0
+27214,56,M,F,2e4,0,Partial High School,Clerical,0,2,0-1 Miles,0
+27215,56,S,F,2e4,0,Partial High School,Clerical,0,2,0-1 Miles,0
+27220,55,S,M,2e4,1,Partial High School,Clerical,0,2,0-1 Miles,0
+27221,55,S,M,2e4,1,Partial High School,Clerical,1,2,1-2 Miles,0
+27222,54,M,F,2e4,1,Partial High School,Clerical,1,2,1-2 Miles,0
+27233,52,S,M,4e4,0,Partial College,Clerical,0,1,0-1 Miles,0
+27237,47,M,F,4e4,0,Partial College,Clerical,0,1,0-1 Miles,0
+27241,34,M,M,5e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+27258,40,S,M,6e4,0,Graduate Degree,Professional,0,0,0-1 Miles,1
+27262,41,M,F,4e4,1,Bachelors,Skilled Manual,1,1,0-1 Miles,1
+27267,37,S,F,6e4,2,Bachelors,Skilled Manual,0,0,0-1 Miles,1
+27276,43,S,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+27277,37,M,M,6e4,0,Graduate Degree,Professional,0,0,0-1 Miles,1
+27287,37,M,M,7e4,0,Graduate Degree,Professional,0,0,0-1 Miles,1
+27300,59,M,M,7e4,3,Partial College,Professional,1,1,10+ Miles,0
+27385,67,M,M,6e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+27386,73,M,M,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+27398,69,S,F,6e4,0,Bachelors,Management,0,2,1-2 Miles,0
+27403,67,S,M,3e4,1,Partial High School,Skilled Manual,0,2,1-2 Miles,0
+27412,65,S,M,7e4,1,Bachelors,Management,1,1,10+ Miles,0
+27413,64,M,F,7e4,1,Bachelors,Management,1,1,10+ Miles,0
+27419,62,S,F,4e4,1,High School,Professional,1,2,10+ Miles,0
+27420,63,S,M,4e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,0
+27423,63,S,M,6e4,1,Partial College,Professional,0,0,2-5 Miles,1
+27425,63,S,M,6e4,1,Partial College,Professional,0,1,2-5 Miles,1
+27430,62,M,F,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+27460,38,S,M,13e4,0,Graduate Degree,Management,0,3,0-1 Miles,1
+27462,33,S,M,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+27466,34,S,F,3e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+27475,35,S,F,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+27480,35,S,F,7e4,0,Partial College,Skilled Manual,0,2,5-10 Miles,0
+27481,35,S,M,7e4,0,Partial College,Skilled Manual,0,2,5-10 Miles,0
+27528,40,M,F,13e4,1,Graduate Degree,Management,1,4,0-1 Miles,0
+27531,43,S,F,4e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+27533,48,M,F,6e4,4,Bachelors,Skilled Manual,1,2,2-5 Miles,0
+27534,48,S,F,6e4,4,Bachelors,Skilled Manual,0,3,5-10 Miles,1
+27539,44,S,M,7e4,0,Bachelors,Professional,0,1,2-5 Miles,1
+27544,51,M,F,6e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,1
+27546,52,S,M,4e4,2,High School,Skilled Manual,1,2,2-5 Miles,1
+27548,40,M,M,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,0
+27551,44,M,M,6e4,0,Partial College,Skilled Manual,0,1,0-1 Miles,1
+27556,52,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+27560,52,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+27568,48,S,M,7e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+27571,36,M,F,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+27574,43,M,F,8e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+27600,58,S,F,6e4,1,Partial High School,Skilled Manual,0,2,2-5 Miles,0
+27603,55,M,F,7e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+27604,55,M,M,6e4,0,High School,Professional,1,2,5-10 Miles,1
+27605,44,M,M,6e4,0,High School,Professional,1,2,5-10 Miles,1
+27607,56,M,M,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+27618,42,M,F,1e5,2,Partial College,Professional,1,1,0-1 Miles,0
+27620,42,S,F,13e4,2,Graduate Degree,Management,0,2,0-1 Miles,0
+27623,55,S,M,8e4,0,Partial College,Professional,0,1,0-1 Miles,1
+27643,50,S,M,7e4,4,Partial College,Professional,1,3,2-5 Miles,0
+27662,52,S,F,11e4,3,Partial College,Professional,1,4,5-10 Miles,1
+27672,59,S,M,6e4,0,Graduate Degree,Management,1,2,5-10 Miles,1
+27674,60,M,F,4e4,0,Partial College,Professional,1,2,5-10 Miles,0
+27679,60,M,F,4e4,0,Partial College,Professional,1,2,5-10 Miles,0
+27684,62,M,F,4e4,0,Partial College,Professional,1,2,5-10 Miles,0
+27731,34,M,M,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+27735,35,S,F,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+27736,35,S,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+27737,34,S,M,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+27741,33,S,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+27921,59,M,F,7e4,3,Partial College,Professional,1,1,2-5 Miles,0
+27991,63,M,F,3e4,0,High School,Professional,0,2,1-2 Miles,0
+28002,73,S,F,6e4,0,Graduate Degree,Management,1,2,10+ Miles,0
+28013,62,M,M,3e4,0,High School,Professional,1,2,10+ Miles,1
+28017,67,S,M,3e4,0,Partial High School,Clerical,0,3,1-2 Miles,1
+28018,61,S,F,3e4,1,Partial High School,Skilled Manual,1,3,10+ Miles,1
+28025,65,M,F,4e4,1,High School,Professional,0,2,2-5 Miles,0
+28027,64,M,F,4e4,1,High School,Professional,0,2,2-5 Miles,0
+28035,64,M,F,4e4,1,High School,Professional,1,2,10+ Miles,0
+28039,58,S,M,6e4,1,Bachelors,Management,0,0,2-5 Miles,1
+28057,60,M,F,7e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,0
+28061,41,S,M,7e4,0,Graduate Degree,Professional,0,0,0-1 Miles,1
+28066,37,M,M,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+28086,33,S,F,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+28087,33,S,F,4e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+28088,33,M,M,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,1
+28089,32,M,M,4e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+28097,34,S,F,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+28121,37,M,F,4e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+28125,36,M,M,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,0
+28131,39,S,M,7e4,0,Partial College,Professional,0,2,0-1 Miles,1
+28150,47,S,M,6e4,2,Bachelors,Skilled Manual,0,2,0-1 Miles,1
+28152,44,M,M,7e4,2,Bachelors,Professional,1,2,2-5 Miles,1
+28158,50,S,M,7e4,0,Bachelors,Professional,1,1,2-5 Miles,1
+28163,45,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+28170,46,M,F,6e4,0,Partial College,Skilled Manual,1,1,2-5 Miles,1
+28175,52,M,M,4e4,2,High School,Skilled Manual,1,3,2-5 Miles,0
+28176,45,S,F,6e4,0,Partial College,Skilled Manual,0,1,0-1 Miles,1
+28186,52,M,F,6e4,0,Partial College,Skilled Manual,1,1,0-1 Miles,1
+28199,54,S,F,6e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+28232,42,S,M,9e4,4,Partial College,Professional,0,3,0-1 Miles,0
+28233,42,S,M,1e5,1,Partial College,Professional,0,4,0-1 Miles,0
+28252,48,M,F,13e4,2,Bachelors,Management,1,4,0-1 Miles,0
+28260,51,S,M,7e4,4,Partial College,Professional,0,3,2-5 Miles,0
+28280,77,S,M,5e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+28295,58,M,M,6e4,0,Partial High School,Skilled Manual,0,2,1-2 Miles,1
+28302,63,M,F,3e4,0,High School,Professional,1,2,5-10 Miles,0
+28330,36,M,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+28334,31,S,F,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+28339,34,S,M,4e4,0,High School,Skilled Manual,0,2,0-1 Miles,1
+28342,34,M,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+28361,46,M,F,6e4,0,Graduate Degree,Professional,0,0,0-1 Miles,0
+28362,41,S,F,6e4,0,Graduate Degree,Professional,0,1,0-1 Miles,1
+28585,52,S,M,3e4,0,High School,Clerical,0,1,5-10 Miles,0
+28588,58,M,F,4e4,0,Partial College,Clerical,1,1,1-2 Miles,1
+28591,57,S,F,2e4,0,Partial High School,Clerical,0,2,0-1 Miles,0
+28596,56,S,F,2e4,0,Partial High School,Clerical,0,2,1-2 Miles,0
+28597,57,S,F,2e4,0,Partial High School,Clerical,0,2,1-2 Miles,0
+28605,50,S,M,2e4,0,Partial High School,Clerical,0,2,0-1 Miles,0
+28606,56,S,M,2e4,0,Partial High School,Clerical,0,2,0-1 Miles,0
+28634,39,S,M,4e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,0
+28636,39,M,F,4e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+28643,35,M,M,5e4,1,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+28647,34,M,F,5e4,1,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+28648,40,M,M,5e4,1,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+28657,42,S,M,6e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+28661,35,S,M,6e4,0,Graduate Degree,Professional,0,0,0-1 Miles,1
+28670,37,M,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+28674,42,M,M,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+28681,46,M,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,0
+28769,46,S,F,8e4,0,Graduate Degree,Skilled Manual,1,0,1-2 Miles,1
+28772,52,M,M,3e4,0,High School,Clerical,1,1,2-5 Miles,1
+28773,52,S,M,3e4,0,High School,Clerical,0,1,5-10 Miles,0
+28778,51,M,M,3e4,0,High School,Clerical,1,1,2-5 Miles,1
+28785,55,S,M,2e4,1,Partial High School,Clerical,1,2,1-2 Miles,0
+28786,49,M,M,2e4,1,Partial High School,Clerical,0,2,0-1 Miles,0
+28787,55,M,F,2e4,1,Partial High School,Clerical,0,2,0-1 Miles,0
+28788,54,M,F,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+28789,55,S,M,3e4,0,High School,Skilled Manual,1,2,1-2 Miles,0
+28811,39,M,M,4e4,0,Graduate Degree,Skilled Manual,0,0,0-1 Miles,0
+28814,41,M,F,5e4,0,Graduate Degree,Skilled Manual,1,0,0-1 Miles,0
+28819,39,M,F,6e4,1,Graduate Degree,Skilled Manual,1,0,0-1 Miles,1
+28821,40,M,M,6e4,1,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+28834,43,M,F,6e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+28843,43,M,F,6e4,0,Graduate Degree,Professional,1,0,2-5 Miles,1
+28845,43,S,F,7e4,2,Bachelors,Skilled Manual,1,0,2-5 Miles,1
+28868,38,M,M,5e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+28874,59,M,F,7e4,3,Partial College,Professional,1,1,10+ Miles,0
+28966,58,S,F,4e4,0,High School,Professional,0,2,1-2 Miles,1
+28973,72,S,M,6e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+28974,72,S,F,6e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+28979,72,M,M,6e4,0,Bachelors,Management,1,2,10+ Miles,0
+28980,72,S,F,6e4,0,Bachelors,Management,0,2,1-2 Miles,0
+28983,65,S,M,6e4,0,Bachelors,Management,0,2,1-2 Miles,0
+28994,66,S,M,4e4,0,High School,Professional,0,4,2-5 Miles,0
+29005,62,S,M,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+29006,63,S,M,6e4,1,Partial College,Professional,1,2,10+ Miles,0
+29017,62,M,M,6e4,1,High School,Professional,0,2,2-5 Miles,1
+29036,53,M,F,6e4,1,Partial High School,Skilled Manual,1,2,10+ Miles,0
+29041,40,S,M,8e4,0,Bachelors,Management,1,1,1-2 Miles,1
+29042,44,M,M,8e4,0,Bachelors,Management,1,1,1-2 Miles,1
+29044,44,S,F,9e4,4,Bachelors,Management,1,1,1-2 Miles,1
+29049,32,S,F,4e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+29052,33,S,M,4e4,0,Partial College,Skilled Manual,1,1,5-10 Miles,0
+29057,34,S,F,3e4,0,Partial College,Skilled Manual,0,1,1-2 Miles,0
+29059,34,S,F,6e4,0,Partial College,Skilled Manual,1,2,5-10 Miles,1
+29125,37,M,F,6e4,0,Partial College,Professional,1,2,5-10 Miles,0
+29135,47,M,M,6e4,2,Bachelors,Skilled Manual,1,2,2-5 Miles,1
+29141,44,S,F,6e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+29143,44,S,F,6e4,0,Bachelors,Professional,0,1,0-1 Miles,1
+29160,42,S,M,6e4,4,Bachelors,Professional,1,1,2-5 Miles,0
+29171,54,M,M,7e4,4,Graduate Degree,Professional,1,2,2-5 Miles,0
+29175,54,M,M,8e4,0,Graduate Degree,Professional,1,0,0-1 Miles,1
+29198,59,M,F,6e4,1,Partial High School,Skilled Manual,1,3,10+ Miles,1
+29202,54,M,M,7e4,2,Partial College,Professional,1,0,5-10 Miles,1
+29206,56,M,M,8e4,0,Partial High School,Skilled Manual,1,2,5-10 Miles,0
+29207,51,M,F,6e4,0,High School,Professional,1,2,5-10 Miles,1
+29211,41,M,F,1e5,1,Bachelors,Management,1,4,2-5 Miles,0
+29213,42,S,F,8e4,3,Bachelors,Management,0,0,0-1 Miles,0
+29220,37,S,F,13e4,2,Graduate Degree,Management,0,2,0-1 Miles,0
+29221,48,S,F,15e4,0,Bachelors,Management,0,3,1-2 Miles,1
+29227,78,S,M,7e4,0,Graduate Degree,Management,1,2,5-10 Miles,0
+29229,48,S,M,8e4,3,Partial College,Professional,0,2,0-1 Miles,0
+29240,50,S,F,8e4,4,Partial College,Professional,0,3,0-1 Miles,0
+29241,44,S,F,9e4,4,Partial College,Professional,0,4,1-2 Miles,0
+29244,50,S,M,11e4,3,Bachelors,Management,1,2,5-10 Miles,0
+29255,57,S,M,8e4,2,Partial College,Professional,0,1,1-2 Miles,1
+29257,56,S,M,9e4,1,High School,Professional,1,1,10+ Miles,0
+29260,77,S,M,7e4,0,Graduate Degree,Management,0,2,1-2 Miles,0
+29273,47,M,M,1e5,3,Partial College,Professional,1,2,5-10 Miles,0
+29275,59,S,F,7e4,0,Graduate Degree,Management,0,2,1-2 Miles,1
+29283,63,M,M,3e4,0,High School,Professional,0,2,1-2 Miles,0
+29322,36,S,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+29327,32,M,M,3e4,0,High School,Skilled Manual,0,2,0-1 Miles,0
+29328,32,M,M,3e4,0,High School,Skilled Manual,1,2,5-10 Miles,0
+29340,32,S,F,3e4,0,Partial High School,Clerical,0,2,0-1 Miles,1
+29347,41,M,M,4e4,0,Bachelors,Professional,0,1,0-1 Miles,0

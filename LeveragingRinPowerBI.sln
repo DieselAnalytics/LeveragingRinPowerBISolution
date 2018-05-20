@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "QuadCharts", "QuadCharts\QuadCharts.rxproj", "{06D868ED-0F6A-43F6-BCB4-465CB2A46DED}"
+EndProject
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "RegularExpressions", "RegularExpressions\RegularExpressions.rxproj", "{73723896-972D-4998-B2E2-AC665294BB83}"
+EndProject
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "DistanceCalculation", "DistanceCalculation\DistanceCalculation.rxproj", "{65E04B87-B265-4635-AECC-AF32EC13A65E}"
+EndProject
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "ScoreData", "ScoreData\ScoreData.rxproj", "{3F4F925D-B71A-4179-BC74-44D3685E5C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D868ED-0F6A-43F6-BCB4-465CB2A46DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D868ED-0F6A-43F6-BCB4-465CB2A46DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D868ED-0F6A-43F6-BCB4-465CB2A46DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D868ED-0F6A-43F6-BCB4-465CB2A46DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73723896-972D-4998-B2E2-AC665294BB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73723896-972D-4998-B2E2-AC665294BB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73723896-972D-4998-B2E2-AC665294BB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73723896-972D-4998-B2E2-AC665294BB83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E04B87-B265-4635-AECC-AF32EC13A65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E04B87-B265-4635-AECC-AF32EC13A65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E04B87-B265-4635-AECC-AF32EC13A65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E04B87-B265-4635-AECC-AF32EC13A65E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4F925D-B71A-4179-BC74-44D3685E5C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4F925D-B71A-4179-BC74-44D3685E5C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4F925D-B71A-4179-BC74-44D3685E5C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4F925D-B71A-4179-BC74-44D3685E5C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
