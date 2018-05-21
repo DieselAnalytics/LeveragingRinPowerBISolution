@@ -9,7 +9,7 @@ Contained in this repo are 4 examples of how you can leverage R in Power BI when
 
 When running the code make sure that you set the working directory to the project that contains the R script you are attempting to run. To do that go to the "Solution Explorer" > highlight the project that contains your R script > Right Click > select "Set Working Directory Here". If you want to use the code in Power BI you need to explicitly set the file path to your data sources or use the Power BI's working directory.
 
-Here are links to the Power BI desktop file, BLS Data, and PowerPoint slides:
+Here are links to the Power BI desktop file that illustrates some R custom visualization examples in Power BI, the BLS data used in the regular expression example, and PowerPoint slides used in the presentation:
 
 * Power BI Desktop File:  https://bit.ly/2s1dBfl
 * BLS Data:  https://bit.ly/2LgiER5
