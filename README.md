@@ -1,4 +1,4 @@
-# Leveraging R in Power BI Solution
+# Leveraging R in Power BI
 
 Contained in this repo are 4 examples of how you can leverage R in Power BI when adding data to the Power BI data model. The code is contained in a Visual Studio solution with 4 projects. A description of the 4 projects are listed below:
 
