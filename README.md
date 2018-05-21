@@ -11,9 +11,9 @@ When running the code make sure that you set the working directory to the projec
 
 Here are links to the Power BI desktop file, BLS Data, and PowerPoint slides:
 
-* Power BI:  https://bit.ly/2s1dBfl
+* Power BI Desktop File:  https://bit.ly/2s1dBfl
 * BLS Data:  https://bit.ly/2LgiER5
-* Slides:  https://bit.ly/2IBLKbS
+* PowerPoint Slides:  https://bit.ly/2IBLKbS
 
 Four packages are uses in this solution. You can run the following code snippet to make sure you have the packages installed:
 
