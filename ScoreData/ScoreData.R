@@ -5,11 +5,14 @@ library(tidyverse)
 model <- readRDS("./Model/Model.rds")
 dataset <- read_csv("./Data/testing_rawdata.csv")
 
-# Define income categories
+# The following variables will be used by the "cut" function to define 
+# the income categories
 breaks <- c(0, 50000, 100000, 170001)
 labels <- c("[0 - 50000)", "[50000 - 100000)", "[100000 - 170001)")
 
-# Feature engineering and scoring
+# Feature engineering and scoring. R code is relatively very human readable 
+# compared to many other programming languages so the feature engineering below 
+# are self-describable
 ScoredData <-
 	dataset %>%
 	transmute(
@@ -25,5 +28,9 @@ ScoredData <-
 					CommuteDistance)
 		  , BikeBuyer
 	) %>%
+    # The qualitative variables needs to be of the factor data type. All of our
+    # qualitative variables have a "character" data type so the "mutate_if" 
+    # function loops through all of the columns in the dataframe and converts 
+	# them to a factor.
 	mutate_if(is.character, as.factor) %>%
 	mutate(pred = predict(model, newdata = ., type = 'response'))
